@@ -1,0 +1,1623 @@
+# Copyright (C) 2015 Microblog Poster
+# This file is distributed under the same license as the Microblog Poster package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Microblog Poster 1.5.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/microblog-poster\n"
+"POT-Creation-Date: 2015-04-26 09:57:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-04-27 01:59+1\n"
+"Last-Translator: EFFICIENT SCRIPTS \n"
+"Language-Team: EFFICIENT SCRIPTS \n"
+
+#: microblogposter.php:2768 microblogposter.php:2829 microblogposter.php:2895
+msgid "Disable Microblog Poster this time?"
+msgstr "Désactiver Microblog Poster cette fois-ci?"
+
+#: microblogposter.php:2795 microblogposter.php:2805 microblogposter.php:2855
+#: microblogposter.php:2865 microblogposter.php:2921 microblogposter.php:2931
+msgid "Show complete Control Dashboard"
+msgstr "Afficher le tableau de bord complet"
+
+#: microblogposter.php:2800 microblogposter.php:2860 microblogposter.php:2926
+msgid "Hide complete Control Dashboard"
+msgstr "Masquer le tableau de bord"
+
+#: microblogposter.php:2806 microblogposter.php:2866 microblogposter.php:2932
+#: microblogposter_options.php:3581 microblogposter_options.php:3719
+#: microblogposter_options.php:3782 microblogposter_options.php:3938
+msgid "Available with the Pro / Enterprise Add-on."
+msgstr "Disponible avec les extensions Pro / Entreprise."
+
+#: microblogposter.php:2806 microblogposter.php:2866 microblogposter.php:2932
+#: microblogposter_options.php:1328 microblogposter_options.php:1478
+#: microblogposter_options.php:1480 microblogposter_options.php:3581
+#: microblogposter_options.php:3719 microblogposter_options.php:3782
+#: microblogposter_options.php:3938 microblogposter_options.php:4583
+#: microblogposter_options.php:4585
+msgid "Upgrade Now"
+msgstr "Mettre à niveau"
+
+#: microblogposter_options.php:317
+msgid "Options saved."
+msgstr "Réglages enregistrés."
+
+#: microblogposter_options.php:530
+msgid "Account added successfully."
+msgstr "Compte ajouté avec succès."
+
+#: microblogposter_options.php:710
+msgid "Account updated successfully."
+msgstr "Compte modifié avec succès."
+
+#: microblogposter_options.php:730
+msgid "Account deleted successfully."
+msgstr "Compte supprimé avec succès."
+
+#: microblogposter_options.php:1294
+msgid "You can use shortcodes:"
+msgstr "Vous pouvez utiliser des codes courts:"
+
+#: microblogposter_options.php:1295
+msgid "Title of the blog post."
+msgstr "Le titre de votre article."
+
+#: microblogposter_options.php:1295
+msgid "Full content of the blog post."
+msgstr "Le contenu de votre article."
+
+#: microblogposter_options.php:1296
+msgid "Url of the blog post."
+msgstr "L'adresse web (URL) de votre article."
+
+#: microblogposter_options.php:1297
+msgid "The blog post shortened url."
+msgstr "L'adresse web réduite (URL réduite) de votre article."
+
+#: microblogposter_options.php:1298
+msgid "Your blog/site url."
+msgstr "L'adresse web de votre site/blog."
+
+#: microblogposter_options.php:1299
+msgid "Manually entered post excerpt, otherwise empty string."
+msgstr "L'extrait de votre article, écrit à la main. Vide autrement."
+
+#: microblogposter_options.php:1300
+msgid "If provided equals to manual excerpt, otherwise auto generated."
+msgstr "L'extrait, écrit à la main, s'il existe. Autrement généré "
+"automatiquement."
+
+#: microblogposter_options.php:1301
+msgid "First few words of your content, suitable for twitter-like sites."
+msgstr "Les premiers mots du contenu de l'article. Adapté pour twitter."
+
+#: microblogposter_options.php:1302
+msgid "The author's name."
+msgstr "L'auteur de l'article."
+
+#: microblogposter_options.php:1318
+msgid "Mandatory. Easily identify it, not used for posting."
+msgstr "Obligatoire. Sert pour identification, pas utilisé pour publication."
+
+#: microblogposter_options.php:1325
+msgid "<span class=\"microblogposter-name\">MicroblogPoster</span> Settings"
+msgstr "<span class=\"microblogposter-name\">MicroblogPoster</span> Réglages"
+
+#: microblogposter_options.php:1327
+msgid "Advanced features are available with the Pro / Enterprise Add-on"
+msgstr "Les fonctions avancées sont disponibles avec les extensions "
+"Pro / Entreprise."
+
+#: microblogposter_options.php:1333
+msgid ""
+"The idea behind <span class=\"microblogposter-name\">MicroblogPoster</span> "
+"is to promote your wordpress blog and reach more people through social "
+"networks."
+msgstr ""
+"L'idée derrière <span class=\"microblogposter-name\">MicroblogPoster</span> "
+"est de promouvoir votre blog wordpress et d'augmenter l'audience "
+"grâce aux réseaux sociaux."
+
+#: microblogposter_options.php:1334
+msgid ""
+"There's a general agreement in the SEO community that social signals "
+"strengthen your blog's page rank and authority."
+msgstr "Dans la communauté SEO, il y a un consensus général que les signals "
+"sociaux sont importants pour l'autorité de votre blog et son PageRank."
+
+#: microblogposter_options.php:1335
+msgid ""
+"<span class=\"microblogposter-name\">MicroblogPoster</span> is simply an "
+"intermediary between your blog and your own social network accounts."
+msgstr "<span class=\"microblogposter-name\">MicroblogPoster</span> "
+"est simplement un intermédiaire entre votre blog wordpress et vos "
+"propres comptes de Réseaux Sociaux."
+
+
+#: microblogposter_options.php:1336
+msgid ""
+"You'll never see \"posted by MicroblogPoster\" in your updates, you'll see "
+"\"posted by your own App name\" or simply \"by API\"."
+msgstr "Vous ne verrez jamais \"publié par MicroblogPoster\" dans vos "
+"messages, vous verrez \"publié par votre propre nom d'Application\" "
+"ou simplement \"par l'API\""
+
+#: microblogposter_options.php:1337
+msgid ""
+"If you like <span class=\"microblogposter-name\">MicroblogPoster</span> or "
+"just find it useful, please <a class=\"mbp-add-review-link\" href=\"https://"
+"wordpress.org/support/view/plugin-reviews/microblog-poster\" target=\"_blank"
+"\">Add a review</a>"
+msgstr ""
+"Si vous aimez utiliser <span class=\"microblogposter-name\">MicroblogPoster</span> ou "
+"le trouvez utile <a class=\"mbp-add-review-link\" href=\"https://"
+"wordpress.org/support/view/plugin-reviews/microblog-poster\" target=\"_blank"
+"\">Ajouter un commentaire</a>"
+
+#: microblogposter_options.php:1341
+msgid ""
+"In order to complete the MicroblogPoster's Pro / Enterprise Add-on "
+"installation, please Save your Customer License Key."
+msgstr "Pour finir l'installation de l'extension Pro / Entreprise "
+"vous devez enregistrer la Clé de Licence Client."
+
+#: microblogposter_options.php:1344
+msgid "Customer License Key"
+msgstr "Clé de Licence Client"
+
+#: microblogposter_options.php:1345
+msgid "Valid"
+msgstr "Valide"
+
+#: microblogposter_options.php:1345
+msgid "Not Valid"
+msgstr "Non Valide"
+
+#: microblogposter_options.php:1346 microblogposter_options.php:1890
+#: microblogposter_options.php:2041 microblogposter_options.php:2126
+#: microblogposter_options.php:2219 microblogposter_options.php:2404
+#: microblogposter_options.php:2518 microblogposter_options.php:2693
+#: microblogposter_options.php:2845 microblogposter_options.php:2982
+#: microblogposter_options.php:3075 microblogposter_options.php:3243
+#: microblogposter_options.php:5164
+msgid "Edit"
+msgstr "Modifier"
+
+#: microblogposter_options.php:1353
+msgid "Save License Key"
+msgstr "Enregister la Clé de Licence"
+
+#: microblogposter_options.php:1360
+msgid "General Options"
+msgstr "Réglages Généraux"
+
+#: microblogposter_options.php:1361
+msgid "Social Networks Accounts"
+msgstr "Les Comptes de Réseaux Sociaux"
+
+#: microblogposter_options.php:1362
+msgid "**Auto Publish Old Posts**"
+msgstr "**Auto Publication d'Anciens Articles**"
+
+#: microblogposter_options.php:1363
+msgid "Manual Auto Publishing"
+msgstr "Auto Publication Manuelle"
+
+#: microblogposter_options.php:1364
+msgid "Logs/History"
+msgstr "Logs/Historique"
+
+#: microblogposter_options.php:1370
+msgid "Choose your general options"
+msgstr "Choisissez vos réglages généraux"
+
+msgid "Multi-Author :"
+msgstr "Multi-Auteur :"
+
+msgid "Enable Multi-Author Mode :"
+msgstr "Activer le mode Multi-Auteur :"
+
+msgid "Who can create personal accounts and auto publish :"
+msgstr "Qui peut créer ses comptes de réseaux sociaux et auto publier :"
+
+msgid "Who can auto publish :"
+msgstr "Qui peut auto publier :"
+
+#: microblogposter_options.php:1375
+msgid "Url Shortener"
+msgstr "Réducteur d'URL"
+
+#: microblogposter_options.php:1383 microblogposter_options.php:1424
+#: microblogposter_options.php:1490 microblogposter_options.php:1539
+#: microblogposter_options.php:1560 microblogposter_options.php:1801
+#: microblogposter_options.php:1934 microblogposter_options.php:2067
+#: microblogposter_options.php:2281 microblogposter_options.php:2446
+#: microblogposter_options.php:2570 microblogposter_options.php:2749
+#: microblogposter_options.php:2899 microblogposter_options.php:3122
+#: microblogposter_options.php:3287 microblogposter_options.php:3348
+#: microblogposter_options.php:3425 microblogposter_options.php:3488
+#: microblogposter_options.php:3584 microblogposter_options.php:3626
+#: microblogposter_options.php:3722 microblogposter_options.php:3785
+#: microblogposter_options.php:3865
+msgid "Help with screenshots in english"
+msgstr "Aide avec des captures d'écran en anglais"
+
+#: microblogposter_options.php:1389
+msgid "Bitly API Username :"
+msgstr "Identifiant Bitly API :"
+
+#: microblogposter_options.php:1396
+msgid "Bitly API Key :"
+msgstr "Clé Bitly API :"
+
+#: microblogposter_options.php:1404
+msgid "OR"
+msgstr "OU"
+
+#: microblogposter_options.php:1407
+msgid "Bitly Access Token :"
+msgstr "Jeton d'accès Bitly :"
+
+#: microblogposter_options.php:1415
+msgid ""
+"The combination of username/API key for authenticating with Bitly is now "
+"<span class=\"mbp-deprecated\">deprecated</span> (still works)."
+msgstr "La combinaison identifiant/clé API pour l'authentification avec "
+"Bitly est maintenant <span class=\"mbp-deprecated\">obsolète</span> "
+"(fonctionne toujours)."
+
+#: microblogposter_options.php:1416
+msgid "Recommended way is the oauth access token only authentication."
+msgstr "La méthode recommandée est l'authentification par le jeton "
+"d'accès oauth."
+
+#: microblogposter_options.php:1430
+msgid "Goo.gl Client ID :"
+msgstr "ID Client Goo.gl"
+
+#: microblogposter_options.php:1437
+msgid "Goo.gl Client Secret :"
+msgstr "Secret Client Goo.gl :"
+
+#: microblogposter_options.php:1451
+msgid ""
+"Authorization is valid permanently. Refresh only if you changed Client ID "
+"and Client Secret."
+msgstr "L'autorisation est valable de façon permanente. Renouveler "
+"uniquement en cas de changement de l'ID ou du Secret Client."
+
+#: microblogposter_options.php:1452 microblogposter_options.php:1895
+#: microblogposter_options.php:2412 microblogposter_options.php:2697
+#: microblogposter_options.php:2851 microblogposter_options.php:2988
+#: microblogposter_options.php:3251
+msgid "Refresh authorization now"
+msgstr "Renouveler l'autorisation maintenant"
+
+#: microblogposter_options.php:1455
+msgid "Please authorize before you can shorten urls."
+msgstr "Veuillez autoriser avant de pouvoir réduire vos adresses web."
+
+#: microblogposter_options.php:1455
+msgid "Authorize"
+msgstr "Autoriser"
+
+#: microblogposter_options.php:1461
+msgid ""
+"Please <span class=\"mbp-deprecated\">Save the Client ID and Client Secret "
+"first</span> then you can Authorize/Re-Authorize the goo.gl account."
+msgstr ""
+"Veuillez d'abord enregister <span class=\"mbp-deprecated\">l'ID Client et "
+"le Secret Client</span> avant de pouvoir Autoriser/Réautoriser le compte goo.gl."
+
+#: microblogposter_options.php:1468 microblogposter_options.php:5207
+msgid "Show Additional Shorteners..."
+msgstr "Afficher les réducteurs supplémentaires..."
+
+#: microblogposter_options.php:1476
+msgid "Additional Shorteners are only available with the Enterprise Add-on."
+msgstr "Les réducteurs supplémentaires sont disponibles uniquement avec "
+"l'extension Entreprise."
+
+#: microblogposter_options.php:1495
+msgid "Adf.ly Api Key :"
+msgstr "Clé Adf.ly Api :"
+
+#: microblogposter_options.php:1502
+msgid "Adf.ly User Id :"
+msgstr "ID Utilisateur Adf.ly :"
+
+#: microblogposter_options.php:1509
+msgid "Adf.ly Domain :"
+msgstr "Domaine Adf.ly :"
+
+#: microblogposter_options.php:1511
+msgid "(ay.gy will be used for twitter)"
+msgstr "(ay.gy est utilisé pour twitter)"
+
+#: microblogposter_options.php:1523
+msgid "custom"
+msgstr "personnalisé"
+
+#: microblogposter_options.php:1529
+msgid ""
+"<span class=\"mbp-deprecated\">Facebook blocks sharing adf.ly related links."
+"</span>"
+msgstr ""
+"<span class=\"mbp-deprecated\">Facebook bloque les liens raccourcis du domaine "
+"adf.ly.</span>"
+
+#: microblogposter_options.php:1530
+msgid ""
+"<span class=\"mbp-deprecated\"> Twitter only accepts ay.gy links</span> "
+"(auto replacement of adf.ly)"
+msgstr ""
+"<span class=\"mbp-deprecated\"> Twitter accepte uniquement les liens "
+"raccourcis du domaine ay.gy</span>(remplacement automatique de adf.ly)"
+
+#: microblogposter_options.php:1531
+msgid "We don't know if the custom domain will work with Facebook or Twitter."
+msgstr "Nous ne savons pas si les domaines personnalisés passent avec "
+"Facebook et Twitter."
+
+#: microblogposter_options.php:1532
+msgid "All the other social sites seem to accept adf.ly related links."
+msgstr "Tous les autres semblent accepter les liens raccourcis du domaine "
+"adf.ly."
+
+#: microblogposter_options.php:1544
+msgid "Adfoc.us Api Key :"
+msgstr "Clé Adfoc.us Api :"
+
+#: microblogposter_options.php:1552
+msgid ""
+"<span class=\"mbp-deprecated\">Facebook blocks sharing adfoc.us related "
+"links.</span>"
+msgstr ""
+"<span class=\"mbp-deprecated\">Facebook bloque les liens raccourcis du domaine "
+"adfoc.us.</span>"
+
+#: microblogposter_options.php:1553
+msgid "All the other social sites seem to accept adfoc.us related links."
+msgstr "Tous les autres semblent accepter les liens raccourcis du domaine "
+"adfoc.us."
+
+#: microblogposter_options.php:1565
+msgid "P.pw User ID :"
+msgstr "ID Utilisateur P.pw :"
+
+#: microblogposter_options.php:1573
+msgid "All the social sites seem to accept p.pw related links."
+msgstr "Tous les autres semblent accepter les liens raccourcis du domaine "
+"p.pw."
+
+#: microblogposter_options.php:1581
+msgid "Enable Category-Driven Mode :"
+msgstr "Activer le mode Publication par Catégorie :"
+
+#: microblogposter_options.php:1581
+msgid "Enable Category-Driven Mode?"
+msgstr "Activer le mode Publication par Catégorie?"
+
+#: microblogposter_options.php:1581
+msgid "Default behavior :"
+msgstr "Comportement par défaut :"
+
+#: microblogposter_options.php:1476
+msgid "Available with the Enterprise Add-on."
+msgstr "Disponible uniquement avec l'extension Entreprise."
+
+#: microblogposter_options.php:1581
+msgid "More Infos"
+msgstr "Plus d'infos"
+
+#: microblogposter_options.php:1581
+msgid "Assign categories :"
+msgstr "Attribuer des catégories :"
+
+#: microblogposter_options.php:1581
+msgid "Show"
+msgstr "Afficher"
+
+#: microblogposter_options.php:1581
+msgid "Posts :"
+msgstr "Articles :"
+
+#: microblogposter_options.php:1586
+msgid "Default per NEW POST behavior :"
+msgstr "Comportement par défaut pour les NOUVEAUX ARTICLES :"
+
+#: microblogposter_options.php:1590 microblogposter_options.php:1599
+#: microblogposter_options.php:1620 microblogposter_options.php:1629
+msgid "Don't cross-post automatically :"
+msgstr "Ne pas publier automatiquement :"
+
+#: microblogposter_options.php:1595
+msgid "Default per POST UPDATE behavior :"
+msgstr "Comportement par défaut pour la MODIFICATION D'ARTICLES :"
+
+#: microblogposter_options.php:1600 microblogposter_options.php:1630
+msgid "(This is most likely to be checked.)"
+msgstr "(Probablement doit être cochée.)"
+
+#: microblogposter_options.php:1607
+msgid "Pages :"
+msgstr "Pages :"
+
+#: microblogposter_options.php:1611
+msgid ""
+"Enable <span class=\"microblogposter-name\">MicroblogPoster</span> for "
+"pages :"
+msgstr ""
+"Activer <span class=\"microblogposter-name\">MicroblogPoster</span> pour "
+"les pages :"
+
+#: microblogposter_options.php:1616
+msgid "Default per NEW PAGE behavior :"
+msgstr "Comportement par défaut pour les NOUVELLES PAGES :"
+
+#: microblogposter_options.php:1625
+msgid "Default per PAGE UPDATE behavior :"
+msgstr "Comportement par défaut pour la MODIFICATION DE PAGES :"
+
+#: microblogposter_options.php:1637
+msgid "Custom Post Types :"
+msgstr "Types de contenu personnalisés (Custom Post Types) :"
+
+#: microblogposter_options.php:1642
+msgid ""
+"Check Custom Post Types for which you want to enable <span class="
+"\"microblogposter-name\">MicroblogPoster</span>."
+msgstr "Sélectionnez les types de contenu personnalisé pour lesquels "
+"vous souhaitez activer <span class=\"microblogposter-name\">"
+"MicroblogPoster</span>."
+
+#: microblogposter_options.php:1663
+msgid "Currently, no custom types are active."
+msgstr "Actuellement il n'y a pas de types de contenu personnalisé activés."
+
+#: microblogposter_options.php:1674
+msgid "Categories to exclude posts from Cross Posting :"
+msgstr "Les catégories pour lesquelles l'auto publication est désactivée."
+
+#: microblogposter_options.php:1679
+msgid ""
+"Check categories for which you want to disable automatically <span class="
+"\"microblogposter-name\">MicroblogPoster</span> from cross-posting."
+msgstr "Sélectionnez les catégories pour lesquelles vous souhaitez désactiver "
+"<span class=\"microblogposter-name\">MicroblogPoster</span> d'auto publier."
+
+#: microblogposter_options.php:1703
+msgid "Shortcodes adjustments :"
+msgstr "Ajustements pour les Codes Courts :"
+
+#: microblogposter_options.php:1707
+msgid ""
+"Change only if you know what you're doing, otherwise default values are just "
+"fine."
+msgstr "Changez uniquement en cas de besoin, sinon les valeurs par défaut "
+"sont très bien."
+
+#: microblogposter_options.php:1710
+msgid "max length:"
+msgstr "longueur max:"
+
+#: microblogposter_options.php:1711 microblogposter_options.php:1715
+#: microblogposter_options.php:1719
+msgid "characters"
+msgstr "caractères"
+
+#: microblogposter_options.php:1711 microblogposter_options.php:1715
+#: microblogposter_options.php:1719 microblogposter_options.php:4519
+#: microblogposter_options.php:4523 microblogposter_options.php:4527
+#: microblogposter_options.php:4531 microblogposter_options.php:4535
+msgid "default value"
+msgstr "valeur par défaut"
+
+#: microblogposter_options.php:1711 microblogposter_options.php:1715
+#: microblogposter_options.php:1719 microblogposter_options.php:4519
+#: microblogposter_options.php:4523 microblogposter_options.php:4527
+#: microblogposter_options.php:4531 microblogposter_options.php:4535
+msgid "range between"
+msgstr "compris entre"
+
+#: microblogposter_options.php:1711 microblogposter_options.php:1715
+#: microblogposter_options.php:1719 microblogposter_options.php:4523
+msgid "and"
+msgstr "et"
+
+#: microblogposter_options.php:1714 microblogposter_options.php:1718
+msgid "length:"
+msgstr "longueur:"
+
+#: microblogposter_options.php:1718
+msgid "(Used when auto generated)"
+msgstr "(Utilisé lorsque généré automatiquement)"
+
+msgid "Apply filters prior to auto publishing :"
+msgstr "Appliquer les filtres avant la publication automatique :"
+
+msgid "Shortcodes filtered :"
+msgstr "Codes courts filtrés :"
+
+#: microblogposter_options.php:1724
+msgid "Pro / Enterprise Add-on Section:"
+msgstr "Partie concernant l'extension Pro / Entreprise:"
+
+#: microblogposter_options.php:1728
+msgid "MicroblogPoster's Control Dashboard :"
+msgstr "Le tableau de bord de MicroblogPoster :"
+
+#: microblogposter_options.php:1733
+msgid "If you're posting to your blog by email,"
+msgstr "Si vous publiez dans WordPress par e-mail,"
+
+#: microblogposter_options.php:1734
+msgid ""
+"you'll need to disable the MicroblogPoster's Control Dashboard in order to "
+"cross-post successfully."
+msgstr "vous avez besoin de désactiver le tableau de bord de MicroblogPoster "
+"pour réussir à publier correctement."
+
+#: microblogposter_options.php:1738
+msgid "Disable the control dashboard:"
+msgstr "Désactiver le tableau de bord:"
+
+#: microblogposter_options.php:1744
+msgid "Update Options"
+msgstr "Enregistrer les modifications"
+
+#: microblogposter_options.php:1750
+msgid "Configure Your Social Networks Accounts :"
+msgstr "Veuillez configurer vos comptes de réseaux sociaux :"
+
+#: microblogposter_options.php:1752
+msgid "Add New Account"
+msgstr "Ajouter un nouveau compte"
+
+#: microblogposter_options.php:1761
+msgid "Twitter Accounts"
+msgstr "Comptes Twitter"
+
+#: microblogposter_options.php:1796 microblogposter_options.php:1929
+#: microblogposter_options.php:2062 microblogposter_options.php:2150
+#: microblogposter_options.php:2276 microblogposter_options.php:2441
+#: microblogposter_options.php:2565 microblogposter_options.php:2744
+#: microblogposter_options.php:2894 microblogposter_options.php:3013
+#: microblogposter_options.php:3117 microblogposter_options.php:3267
+msgid "<span class=\"microblogposter-name\">MicroblogPoster</span> Plugin"
+msgstr "L'extension <span class=\"microblogposter-name\">MicroblogPoster</span>"
+
+#: microblogposter_options.php:1798 microblogposter_options.php:1875
+msgid "Twitter Account:"
+msgstr "Compte Twitter:"
+
+#: microblogposter_options.php:1803 microblogposter_options.php:1936
+#: microblogposter_options.php:2069 microblogposter_options.php:2156
+#: microblogposter_options.php:2283 microblogposter_options.php:2448
+#: microblogposter_options.php:2572 microblogposter_options.php:2751
+#: microblogposter_options.php:2901 microblogposter_options.php:3019
+#: microblogposter_options.php:3124 microblogposter_options.php:3289
+#: microblogposter_options.php:3350 microblogposter_options.php:3427
+#: microblogposter_options.php:3455 microblogposter_options.php:3490
+#: microblogposter_options.php:3586 microblogposter_options.php:3628
+#: microblogposter_options.php:3724 microblogposter_options.php:3787
+#: microblogposter_options.php:3839 microblogposter_options.php:3867
+msgid "Username:"
+msgstr "Identifiant:"
+
+msgid "Board Name:"
+msgstr "Nom du Tableau:"
+
+#: microblogposter_options.php:1809 microblogposter_options.php:1969
+#: microblogposter_options.php:2082 microblogposter_options.php:2168
+#: microblogposter_options.php:2319 microblogposter_options.php:2467
+#: microblogposter_options.php:2608 microblogposter_options.php:2765
+#: microblogposter_options.php:2915 microblogposter_options.php:3031
+#: microblogposter_options.php:3161 microblogposter_options.php:3295
+#: microblogposter_options.php:3383 microblogposter_options.php:3440
+#: microblogposter_options.php:3467 microblogposter_options.php:3527
+#: microblogposter_options.php:3605 microblogposter_options.php:3665
+#: microblogposter_options.php:3738 microblogposter_options.php:3801
+#: microblogposter_options.php:3851 microblogposter_options.php:3894
+msgid "Message Format:"
+msgstr "Format du message:"
+
+#: microblogposter_options.php:1813 microblogposter_options.php:1973
+#: microblogposter_options.php:2086 microblogposter_options.php:2172
+#: microblogposter_options.php:2323 microblogposter_options.php:2471
+#: microblogposter_options.php:2612 microblogposter_options.php:2769
+#: microblogposter_options.php:2919 microblogposter_options.php:3035
+#: microblogposter_options.php:3165 microblogposter_options.php:3299
+#: microblogposter_options.php:3387 microblogposter_options.php:3444
+#: microblogposter_options.php:3471 microblogposter_options.php:3531
+#: microblogposter_options.php:3609 microblogposter_options.php:3669
+#: microblogposter_options.php:3742 microblogposter_options.php:3805
+#: microblogposter_options.php:3855 microblogposter_options.php:3898
+msgid "Message that's actually posted."
+msgstr "Message qui est publié."
+
+#: microblogposter_options.php:1822 microblogposter_options.php:1982
+#: microblogposter_options.php:2798 microblogposter_options.php:3308
+#: microblogposter_options.php:3396 microblogposter_options.php:3768
+msgid "Consumer Key:"
+msgstr "Clé Client:"
+
+#: microblogposter_options.php:1829 microblogposter_options.php:1989
+#: microblogposter_options.php:2805 microblogposter_options.php:3315
+#: microblogposter_options.php:3403 microblogposter_options.php:3775
+msgid "Consumer Secret:"
+msgstr "Clé Privée Client:"
+
+#: microblogposter_options.php:1840
+msgid ""
+"The two fields below 'Access Token' and 'Access Token Secret' are either "
+"generated interactively or you provided them manually."
+msgstr "Les deux champs ci-dessous 'Jeton d'Accès' et 'Jeton d'Accès Privé' "
+"sont soit générés interactivement, soit vous les avez saisis manuellement."
+
+#: microblogposter_options.php:1841
+msgid ""
+"In any case these two fields are MANDATORY in order to successfully post to "
+"twitter."
+msgstr "Dans tous les cas, ces deux champs sont OBLIGATOIRE pour publier "
+"automatiquement avec succès."
+
+#: microblogposter_options.php:1845 microblogposter_options.php:1996
+#: microblogposter_options.php:3205 microblogposter_options.php:3333
+#: microblogposter_options.php:3410
+msgid "Access Token:"
+msgstr "Jeton d'Accès:"
+
+#: microblogposter_options.php:1852 microblogposter_options.php:2003
+#: microblogposter_options.php:3340 microblogposter_options.php:3417
+msgid "Access Token Secret:"
+msgstr "Jeton d'Accès Privé:"
+
+#: microblogposter_options.php:1864 microblogposter_options.php:1882
+#: microblogposter_options.php:2015 microblogposter_options.php:2033
+#: microblogposter_options.php:2100 microblogposter_options.php:2118
+#: microblogposter_options.php:2193 microblogposter_options.php:2211
+#: microblogposter_options.php:2378 microblogposter_options.php:2396
+#: microblogposter_options.php:2492 microblogposter_options.php:2510
+#: microblogposter_options.php:2667 microblogposter_options.php:2685
+#: microblogposter_options.php:2819 microblogposter_options.php:2837
+#: microblogposter_options.php:2956 microblogposter_options.php:2974
+#: microblogposter_options.php:3049 microblogposter_options.php:3067
+#: microblogposter_options.php:3217 microblogposter_options.php:3235
+#: microblogposter_options.php:3943
+msgid "Cancel"
+msgstr "Annuler"
+
+#: microblogposter_options.php:1865 microblogposter_options.php:2016
+#: microblogposter_options.php:2101 microblogposter_options.php:2194
+#: microblogposter_options.php:2379 microblogposter_options.php:2493
+#: microblogposter_options.php:2668 microblogposter_options.php:2820
+#: microblogposter_options.php:2957 microblogposter_options.php:3050
+#: microblogposter_options.php:3218 microblogposter_options.php:3944
+#: microblogposter_options.php:4567
+msgid "Save"
+msgstr "Enregister"
+
+#: microblogposter_options.php:1876 microblogposter_options.php:2027
+#: microblogposter_options.php:2112 microblogposter_options.php:2205
+#: microblogposter_options.php:2390 microblogposter_options.php:2504
+#: microblogposter_options.php:2679 microblogposter_options.php:2831
+#: microblogposter_options.php:2968 microblogposter_options.php:3061
+#: microblogposter_options.php:3229
+msgid "Delete?"
+msgstr "Supprimer?"
+
+#: microblogposter_options.php:1883 microblogposter_options.php:2034
+#: microblogposter_options.php:2119 microblogposter_options.php:2212
+#: microblogposter_options.php:2397 microblogposter_options.php:2511
+#: microblogposter_options.php:2686 microblogposter_options.php:2838
+#: microblogposter_options.php:2975 microblogposter_options.php:3068
+#: microblogposter_options.php:3236
+msgid "Delete"
+msgstr "Supprimer"
+
+#: microblogposter_options.php:1891 microblogposter_options.php:2042
+#: microblogposter_options.php:2127 microblogposter_options.php:2220
+#: microblogposter_options.php:2405 microblogposter_options.php:2519
+#: microblogposter_options.php:2694 microblogposter_options.php:2846
+#: microblogposter_options.php:2983 microblogposter_options.php:3076
+#: microblogposter_options.php:3244
+msgid "Del"
+msgstr "Supprimer"
+
+#: microblogposter_options.php:1894 microblogposter_options.php:2408
+#: microblogposter_options.php:2850 microblogposter_options.php:2987
+#: microblogposter_options.php:3247
+msgid "Authorization is valid permanently"
+msgstr "L'autorisation est valable de façon permanente"
+
+#: microblogposter_options.php:1896 microblogposter_options.php:1899
+#: microblogposter_options.php:2852 microblogposter_options.php:2855
+msgid "(2 steps required)"
+msgstr "(2 étapes requises)"
+
+#: microblogposter_options.php:1898
+msgid "Authorize this Twitter account"
+msgstr "Autoriser ce compte Twitter"
+
+#: microblogposter_options.php:1900 microblogposter_options.php:2856
+msgid "Final step, click once again."
+msgstr "L'étape finale, cliquez encore une fois."
+
+#: microblogposter_options.php:1909
+msgid "Plurk Accounts"
+msgstr "Comptes Plurk"
+
+#: microblogposter_options.php:1931 microblogposter_options.php:2026
+msgid "Plurk Account:"
+msgstr "Compte Plurk:"
+
+#: microblogposter_options.php:1942 microblogposter_options.php:3356
+msgid "Qualifier:"
+msgstr "Qualificateur:"
+
+#: microblogposter_options.php:2050
+msgid "FriendFeed Accounts"
+msgstr "Comptes FriendFeed"
+
+#: microblogposter_options.php:2064 microblogposter_options.php:2111
+msgid "FriendFeed Account:"
+msgstr "Compte FriendFeed"
+
+#: microblogposter_options.php:2075 microblogposter_options.php:3433
+msgid "Remote Key:"
+msgstr "Clé Distante:"
+
+#: microblogposter_options.php:2133
+msgid "Delicious Accounts"
+msgstr "Comptes Delicious"
+
+#: microblogposter_options.php:2152 microblogposter_options.php:2204
+msgid "Delicious Account:"
+msgstr "Compte Delicious:"
+
+#: microblogposter_options.php:2162 microblogposter_options.php:2454
+#: microblogposter_options.php:3025 microblogposter_options.php:3461
+#: microblogposter_options.php:3592 microblogposter_options.php:3845
+msgid "Password:"
+msgstr "Mot de passe:"
+
+#: microblogposter_options.php:2181 microblogposter_options.php:2480
+#: microblogposter_options.php:3480 microblogposter_options.php:3618
+msgid "Include tags:"
+msgstr "Inclure les mots-clés:"
+
+#: microblogposter_options.php:2185 microblogposter_options.php:2484
+#: microblogposter_options.php:3484 microblogposter_options.php:3622
+msgid "Do you want to include tags in the bookmarks?"
+msgstr "Est-ce que vous souhaitez inclure les mots-clés dans les favoris?"
+
+#: microblogposter_options.php:2226
+msgid "Facebook Accounts"
+msgstr "Comptes Facebook"
+
+#: microblogposter_options.php:2278 microblogposter_options.php:2389
+msgid "Facebook Account:"
+msgstr "Compte Facebook:"
+
+#: microblogposter_options.php:2289 microblogposter_options.php:3497
+msgid "Facebook target type:"
+msgstr "Type de cible Facebook:"
+
+#: microblogposter_options.php:2294 microblogposter_options.php:3502
+msgid "Page timeline"
+msgstr "Timeline de la Page"
+
+#: microblogposter_options.php:2296 microblogposter_options.php:2585
+#: microblogposter_options.php:3503 microblogposter_options.php:3640
+msgid "Group timeline"
+msgstr "Timeline du Groupe"
+
+#: microblogposter_options.php:2298 microblogposter_options.php:2587
+#: microblogposter_options.php:3501 microblogposter_options.php:3639
+msgid "Profile timeline"
+msgstr "Timeline du Profil"
+
+#: microblogposter_options.php:2303 microblogposter_options.php:3510
+msgid "Page ID:"
+msgstr "ID Page:"
+
+#: microblogposter_options.php:2307 microblogposter_options.php:3514
+msgid "Your Facebook Page ID. (numeric)"
+msgstr "L'ID de votre page Facebook. (numérique)"
+
+#: microblogposter_options.php:2311 microblogposter_options.php:2592
+#: microblogposter_options.php:3519 microblogposter_options.php:3648
+msgid "Group ID:"
+msgstr "ID Groupe:"
+
+#: microblogposter_options.php:2315 microblogposter_options.php:3523
+msgid "Your Facebook Group ID. (numeric)"
+msgstr "L'ID de votre groupe Facebook. (numérique)"
+
+#: microblogposter_options.php:2333 microblogposter_options.php:2622
+#: microblogposter_options.php:2779 microblogposter_options.php:3175
+#: microblogposter_options.php:3541 microblogposter_options.php:3679
+#: microblogposter_options.php:3752 microblogposter_options.php:3908
+#: microblogposter_options.php:4622
+msgid "Post Type:"
+msgstr "Type de Message:"
+
+#: microblogposter_options.php:2336 microblogposter_options.php:2782
+#: microblogposter_options.php:3178 microblogposter_options.php:3544
+#: microblogposter_options.php:3755 microblogposter_options.php:3911
+#: microblogposter_options.php:4654
+msgid "Text"
+msgstr "Texte"
+
+#: microblogposter_options.php:2336 microblogposter_options.php:3544
+msgid "(Text only status update.)"
+msgstr "(Mise à jour de statut de type Texte.)"
+
+#: microblogposter_options.php:2337 microblogposter_options.php:2626
+#: microblogposter_options.php:2784 microblogposter_options.php:3179
+#: microblogposter_options.php:3545 microblogposter_options.php:3683
+#: microblogposter_options.php:3756 microblogposter_options.php:3912
+#: microblogposter_options.php:4627
+msgid "Link"
+msgstr "Lien"
+
+#: microblogposter_options.php:2337 microblogposter_options.php:3545
+msgid "(Text message + Facebook link box.)"
+msgstr "(Message texte + Partie lien Facebook.)"
+
+#: microblogposter_options.php:2344 microblogposter_options.php:3552
+msgid ""
+"If you choose to post with link box you'll need a thumbnail for your link. "
+"If your new post contains a featured image, MicroblogPoster will take that "
+"one."
+msgstr "Si vous avez choisi de publier dans le format Lien de Facebook, "
+"vous aurez besoin d'une image. Si votre article contient l'image "
+"à la une celle-ci sera envoyée à Facebook."
+
+#: microblogposter_options.php:2345 microblogposter_options.php:3553
+msgid ""
+"If not, no explicit image url will be submitted and facebook will try to "
+"fetch appropriate thumbnail for your post. If there is no image, your link "
+"will appear without thumbnail."
+msgstr "Sinon, aucune image ne sera envoyée et dans ce cas Facebook "
+"essaiera de trouver une image dans votre article. Si votre article ne "
+"contient pas d'image, le lien apparaîtra sans image."
+
+#: microblogposter_options.php:2346 microblogposter_options.php:3554
+msgid ""
+"Otherwise if you don't like image/thumbnail facebook is auto fetching then "
+"specify a default image url just below. This default thumbnail url will be "
+"posted for each new post that doesn't have featured image."
+msgstr "Autrement vous avez la possibilité de spécifier une image "
+"par défaut. Cette image par défaut sera envoyée à Facebook à chaque "
+"fois que votre article n'a pas d'image à la une."
+
+#: microblogposter_options.php:2351 microblogposter_options.php:2640
+#: microblogposter_options.php:3559 microblogposter_options.php:3697
+msgid "Default Image Url:"
+msgstr "Url de l'image par défaut:"
+
+#: microblogposter_options.php:2355 microblogposter_options.php:2644
+#: microblogposter_options.php:3563 microblogposter_options.php:3701
+msgid "Default Thumbnail for link box."
+msgstr "Url de l'image par défaut pour la partie lien."
+
+#: microblogposter_options.php:2355 microblogposter_options.php:2644
+#: microblogposter_options.php:3563 microblogposter_options.php:3701
+msgid "Help"
+msgstr "Aide"
+
+#: microblogposter_options.php:2359 microblogposter_options.php:2648
+#: microblogposter_options.php:3191 microblogposter_options.php:3567
+#: microblogposter_options.php:3705 microblogposter_options.php:3924
+msgid "Application ID/API Key:"
+msgstr "ID Application/Clé API:"
+
+#: microblogposter_options.php:2366 microblogposter_options.php:2655
+#: microblogposter_options.php:3198 microblogposter_options.php:3574
+#: microblogposter_options.php:3712 microblogposter_options.php:3931
+msgid "Application Secret:"
+msgstr "Secret Application:"
+
+#: microblogposter_options.php:2409
+msgid "Re-Authorize this facebook account"
+msgstr "Renouveler l'autorisation pour ce compte facebook"
+
+#: microblogposter_options.php:2411 microblogposter_options.php:2696
+#: microblogposter_options.php:3250
+msgid "Authorization is valid until"
+msgstr "Autorisation valable jusqu'au"
+
+#: microblogposter_options.php:2415
+msgid "Authorize this facebook account"
+msgstr "Autoriser ce compte facebook"
+
+#: microblogposter_options.php:2423
+msgid "Diigo Accounts"
+msgstr "Comptes Diigo"
+
+#: microblogposter_options.php:2443 microblogposter_options.php:2503
+msgid "Diigo Account:"
+msgstr "Compte Diigo:"
+
+#: microblogposter_options.php:2460 microblogposter_options.php:3598
+msgid "API Key:"
+msgstr "Clé API:"
+
+#: microblogposter_options.php:2525
+msgid "Linkedin Accounts"
+msgstr "Comptes Linkedin"
+
+#: microblogposter_options.php:2567 microblogposter_options.php:2678
+msgid "Linkedin Account:"
+msgstr "Compte Linkedin:"
+
+#: microblogposter_options.php:2578 microblogposter_options.php:3635
+msgid "Linkedin target type:"
+msgstr "Type de cible Linkedin:"
+
+#: microblogposter_options.php:2583 microblogposter_options.php:3641
+msgid "Company timeline"
+msgstr "Timeline de l'Entreprise"
+
+#: microblogposter_options.php:2596 microblogposter_options.php:3652
+msgid "Your Linkedin Group ID."
+msgstr "L'ID de votre groupe Linkedin."
+
+#: microblogposter_options.php:2600 microblogposter_options.php:3657
+msgid "Company ID:"
+msgstr "ID Entreprise:"
+
+#: microblogposter_options.php:2604 microblogposter_options.php:3661
+msgid "Your Linkedin Company ID."
+msgstr "L'ID de votre entreprise Linkedin."
+
+#: microblogposter_options.php:2626 microblogposter_options.php:3683
+msgid "(Text message + Linkedin link box.)"
+msgstr "(Message texte + Partie lien Linkedin.)"
+
+#: microblogposter_options.php:2633 microblogposter_options.php:3690
+msgid ""
+"Posting with link box you'll need a thumbnail for your link. If your post "
+"contains a featured image, MicroblogPoster will take that one."
+msgstr "Si vous avez choisi de publier dans le format Lien, "
+"vous aurez besoin d'une image. Si votre article contient l'image "
+"à la une celle-ci sera envoyée."
+
+#: microblogposter_options.php:2634 microblogposter_options.php:3691
+msgid ""
+"If not, no explicit image url will be submitted and your update will appear "
+"without a thumbnail."
+msgstr "Sinon, aucune image ne sera envoyée et dans ce cas le lien "
+"apparaîtra sans image."
+
+#: microblogposter_options.php:2635 microblogposter_options.php:3692
+msgid ""
+"If you want always to have an image going with your link then specify a "
+"default image url just below."
+msgstr "Autrement vous avez la possibilité de spécifier une image "
+"par défaut."
+
+#: microblogposter_options.php:2636 microblogposter_options.php:3693
+msgid ""
+"This default thumbnail url will be posted for each new post that doesn't "
+"have featured image."
+msgstr "Cette image par défaut sera envoyée à chaque "
+"fois que votre article n'a pas d'image à la une."
+
+#: microblogposter_options.php:2699
+msgid "Authorize this linkedin account"
+msgstr "Autoriser ce compte linkedin"
+
+#: microblogposter_options.php:2707
+msgid "Tumblr Accounts"
+msgstr "Comptes Tumblr"
+
+#: microblogposter_options.php:2746 microblogposter_options.php:2830
+msgid "Tumblr Account:"
+msgstr "Compte Tumblr:"
+
+#: microblogposter_options.php:2755 microblogposter_options.php:2905
+msgid "Easily identify it later, not used for posting."
+msgstr "Sert pour identification, pas utilisé pour publication."
+
+#: microblogposter_options.php:2758 microblogposter_options.php:3731
+msgid "Blog Hostname:"
+msgstr "Nom d'hôte du Blog:"
+
+#: microblogposter_options.php:2762 microblogposter_options.php:2912
+#: microblogposter_options.php:3735 microblogposter_options.php:3798
+msgid "Example:"
+msgstr "Exemple:"
+
+#: microblogposter_options.php:2782 microblogposter_options.php:3755
+msgid "(Text status update.)"
+msgstr "(Mise à jour de statut de type Texte.)"
+
+#: microblogposter_options.php:2784 microblogposter_options.php:3756
+msgid "Tumblr link box status update."
+msgstr "(Mise à jour de statut de type Tumblr Lien.)"
+
+#: microblogposter_options.php:2793 microblogposter_options.php:3763
+msgid ""
+"Link box + description of your post. Message Format field above isn't used."
+msgstr "Partie lien + description de votre article. Le champ format du "
+"message n'est pas utilisé."
+
+#: microblogposter_options.php:2854
+msgid "Authorize this Tumblr account"
+msgstr "Autoriser ce compte Tumblr."
+
+#: microblogposter_options.php:2865
+msgid "Blogger Accounts"
+msgstr "Comptes Blogger"
+
+#: microblogposter_options.php:2896 microblogposter_options.php:2967
+msgid "Blogger Account:"
+msgstr "Compte Blogger:"
+
+#: microblogposter_options.php:2908 microblogposter_options.php:3794
+msgid "Blog Id:"
+msgstr "ID Blog:"
+
+#: microblogposter_options.php:2929 microblogposter_options.php:3815
+msgid "Include featured image:"
+msgstr "Inclure l'Image à la Une:"
+
+#: microblogposter_options.php:2933 microblogposter_options.php:3819
+msgid "Do you want to include featured image in your updates?"
+msgstr "Est-ce que vous souhaitez inclure l'Image à la Une?"
+
+#: microblogposter_options.php:2937 microblogposter_options.php:3823
+msgid "Client Id:"
+msgstr "ID Client:"
+
+#: microblogposter_options.php:2944 microblogposter_options.php:3830
+msgid "Client Secret:"
+msgstr "Secret Client:"
+
+#: microblogposter_options.php:2990
+msgid "Authorize this Blogger account"
+msgstr "Autoriser ce compte Blogger"
+
+#: microblogposter_options.php:3000
+msgid "Instapaper Accounts"
+msgstr "Comptes Instapaper"
+
+#: microblogposter_options.php:3015 microblogposter_options.php:3060
+msgid "Instapaper Account:"
+msgstr "Compte Instapaper:"
+
+#: microblogposter_options.php:3082
+msgid "VKontakte Accounts"
+msgstr "Comptes VKontakte"
+
+#: microblogposter_options.php:3119 microblogposter_options.php:3228
+msgid "VKontakte Account:"
+msgstr "Compte VKontakte:"
+
+#: microblogposter_options.php:3130 microblogposter_options.php:3874
+msgid "VKontakte target type:"
+msgstr "Type de cible VKontakte:"
+
+#: microblogposter_options.php:3135 microblogposter_options.php:3879
+msgid "Public Page wall"
+msgstr "Mur de la Page publique"
+
+#: microblogposter_options.php:3137 microblogposter_options.php:3880
+msgid "Group wall"
+msgstr "Mur du Groupe"
+
+#: microblogposter_options.php:3139 microblogposter_options.php:3881
+msgid "Event wall"
+msgstr "Mur de l'événement"
+
+#: microblogposter_options.php:3141 microblogposter_options.php:3878
+msgid "Profile wall"
+msgstr "Mur du Profil"
+
+#: microblogposter_options.php:3147 microblogposter_options.php:4936
+msgid "Page ID"
+msgstr "ID Page"
+
+#: microblogposter_options.php:3149 microblogposter_options.php:4940
+msgid "Group ID"
+msgstr "ID Groupe"
+
+#: microblogposter_options.php:3151 microblogposter_options.php:4944
+msgid "Event ID"
+msgstr "ID Événement"
+
+#: microblogposter_options.php:3153 microblogposter_options.php:4827
+#: microblogposter_options.php:4948
+msgid "Profile ID"
+msgstr "ID Profil"
+
+#: microblogposter_options.php:3158 microblogposter_options.php:3891
+msgid "numeric"
+msgstr "numérique"
+
+#: microblogposter_options.php:3178 microblogposter_options.php:3911
+msgid "Text only status update."
+msgstr "(Mise à jour de statut de type Texte.)"
+
+#: microblogposter_options.php:3179 microblogposter_options.php:3912
+msgid "(Text message + VKontakte link box.)"
+msgstr "(Message texte + Partie lien VKontakte.)"
+
+#: microblogposter_options.php:3186 microblogposter_options.php:3919
+msgid ""
+"If you choose to post with link box, VKontakte is auto fetching an image "
+"from your post and add it to the link box."
+msgstr "Si vous avez choisi de publier dans le format Lien, VKontakte "
+"essaiera de trouver une image dans votre article et celle-ci sera affichée "
+"dans le lien."
+
+#: microblogposter_options.php:3248
+msgid "Re-Authorize this vkontakte account"
+msgstr "Renouveler l'autorisation pour ce compte VKontakte"
+
+#: microblogposter_options.php:3254
+msgid "Authorize this vkontakte account"
+msgstr "Autoriser ce compte vkontakte"
+
+#: microblogposter_options.php:3074
+msgid "Xing Accounts"
+msgstr "Comptes Xing"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Xing Account:"
+msgstr "Compte Xing:"
+
+#: microblogposter_options.php:3245
+msgid "Authorize this Xing account"
+msgstr "Autoriser ce compte Xing"
+
+#: microblogposter_options.php:2777 microblogposter_options.php:3747
+msgid "Xing link box status update."
+msgstr "Mise à jour de statut de type Xing Lien."
+
+#: microblogposter_options.php:3170 microblogposter_options.php:3903
+msgid "(Text message + Xing link box.)"
+msgstr "(Message texte + Partie lien Xing.)"
+
+msgid "Pinterest Accounts"
+msgstr "Comptes Pinterest"
+
+msgid "Pinterest Account:"
+msgstr "Compte Pinterest:"
+
+msgid "Authorize this Pinterest account"
+msgstr "Autoriser ce compte Pinterest"
+
+#: microblogposter_options.php:3074
+msgid "Flickr Accounts"
+msgstr "Comptes Flickr"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Flickr Account:"
+msgstr "Compte Flickr:"
+
+#: microblogposter_options.php:3245
+msgid "Authorize this Flickr account"
+msgstr "Autoriser ce compte Flickr"
+
+#: microblogposter_options.php:3245
+msgid "Album Id:"
+msgstr "ID Album:"
+
+#: microblogposter_options.php:3074
+msgid "Wordpress Accounts"
+msgstr "Comptes Wordpress"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Wordpress Account:"
+msgstr "Compte Wordpress:"
+
+#: microblogposter_options.php:3245
+msgid "Blog Url:"
+msgstr "L'Url du blog:"
+
+#: microblogposter_options.php:3074
+msgid "Buffer Accounts"
+msgstr "Comptes Buffer"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Buffer Account:"
+msgstr "Compte Buffer:"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Refresh available accounts"
+msgstr "Rafraîchir la liste des comptes"
+
+#: microblogposter_options.php:3074
+msgid "Google+ Accounts"
+msgstr "Comptes Google+"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Google+ Account:"
+msgstr "Compte Google+:"
+
+#: microblogposter_options.php:3269
+msgid "Account type:"
+msgstr "Type de Compte:"
+
+#: microblogposter_options.php:3326
+msgid ""
+"Leave the fields 'Access Token' and 'Access Token Secret' below blank if you "
+"want to authorize your account interactively."
+msgstr "Si vous souhaitez autoriser votre compte interactivement, veuillez "
+"laisser les deux champs ci-dessous 'Jeton d'Accès' et 'Jeton d'Accès Privé' "
+"vides."
+
+#: microblogposter_options.php:3327
+msgid ""
+"If you provide them, your account will be ready to post immediately and you "
+"won't have to authorize interactively."
+msgstr "Si vous les saisissez, votre compte twitter sera prêt pour la "
+"publication automatique immédiatement sans besoin d'autorisation "
+"interactive."
+
+#: microblogposter_options.php:3328
+msgid ""
+"Not providing these two fields is meant to allow you posting to multiple "
+"twitter accounts with a single twitter App. "
+msgstr "Ne pas saisir des valeurs pour ces deux champs vous permet "
+"d'utiliser une même Application Twitter pour de multiple comptes Twitter."
+
+#: microblogposter_options.php:3329
+msgid "You then authorize each account interactively against your App."
+msgstr "Ensuite, chaque compte doit être autorisé interactivement."
+
+#: microblogposter_options.php:3337 microblogposter_options.php:3344
+msgid "Optional."
+msgstr "Facultatif."
+
+#: microblogposter_options.php:3505 microblogposter_options.php:3643
+#: microblogposter_options.php:3883
+msgid "Where you want to auto post."
+msgstr "L'endroit où vous souhaitez publier."
+
+#: microblogposter_options.php:4481
+msgid "Auto re-publish your old blog posts to social accounts :"
+msgstr "Publiez automatiquement vos anciens articles sur les réseaux sociaux :"
+
+#: microblogposter_options.php:4484
+msgid ""
+"<span class=\"microblogposter-name\">MicroblogPoster</span> can now auto re-"
+"publish your <strong>old blog posts</strong> to social accounts in order to "
+"keep them alive."
+msgstr "<span class=\"microblogposter-name\">MicroblogPoster</span> est capable "
+"de publier/republier vos <strong>anciens articles</strong> sur les réseaux sociaux "
+"et ainsi les maintenir en vie."
+
+#: microblogposter_options.php:4485
+msgid ""
+"You need to specify the minimum and maximum of the post age and all posts, "
+"published on your blog in between, will be candidates."
+msgstr "Vous devez spécifier le minimum et le maximum pour l'ancienneté de l'article "
+"et tous les articles, publiés dans votre blog dans cet intervalle, seront candidats."
+
+#: microblogposter_options.php:4486
+msgid ""
+"This feature utilizes the WP Cron functionality and will be run every x "
+"(specify it below) hours."
+msgstr "Cette fonctionnalité utilise WP Cron de Wordpress et sera exécutée "
+"tous les x (spécifiez ci-dessous) heures."
+
+#: microblogposter_options.php:4488
+msgid "How to activate :"
+msgstr "Comment activer :"
+
+#: microblogposter_options.php:4489
+msgid "Check the 'Activate old posts auto publishing'."
+msgstr "Cochez la case 'Activez la publication automatique d'anciens articles'."
+
+#: microblogposter_options.php:4490
+msgid "Choose your settings."
+msgstr "Choisissez vos réglages."
+
+#: microblogposter_options.php:4491
+msgid ""
+"Select the social accounts you want to be active for old posts re-publishing."
+msgstr "Sélectionnez les comptes sociaux que vous souhaitez activer pour "
+"cette fonctionnalité."
+
+#: microblogposter_options.php:4492
+msgid "Hit Save button."
+msgstr "Appuyez sur Enregistrer."
+
+#: microblogposter_options.php:4493
+msgid ""
+"Almost immediately you should see first old post(s) re-published in the Logs/"
+"History tab. They are labelled 'Old'."
+msgstr "Presque immédiatement, vous devriez voir apparaître les premiers anciens "
+"articles publiés dans la partie Logs/Historique. Ils sont étiquetés 'Ancien'."
+
+#: microblogposter_options.php:4494
+msgid "Next run will occur after approximately x hours."
+msgstr "La prochaine exécution se fera dans x heures."
+
+#: microblogposter_options.php:4503
+msgid "Activate old posts auto publishing :"
+msgstr "Activez la publication automatique d'anciens articles :"
+
+#: microblogposter_options.php:4506
+msgid "Current Status :"
+msgstr "Statut Actuel :"
+
+#: microblogposter_options.php:4506
+msgid "<strong class='mbp-green'>ACTIVATED</strong>"
+msgstr "<strong class='mbp-green'>ACTIVÉ</strong>"
+
+#: microblogposter_options.php:4506
+msgid "<strong class='mbp-red'>DEACTIVATED</strong>"
+msgstr "<strong class='mbp-red'>DÉSACTIVÉ</strong>"
+
+#: microblogposter_options.php:4514
+msgid "General settings :"
+msgstr "Réglages Généraux :"
+
+#: microblogposter_options.php:4518
+msgid "WP Cron Interval:"
+msgstr "Intervalle WP Cron:"
+
+#: microblogposter_options.php:4519
+msgid "hours"
+msgstr "heures"
+
+#: microblogposter_options.php:4519 microblogposter_options.php:4527
+#: microblogposter_options.php:4531 microblogposter_options.php:4535
+msgid "and reasonably"
+msgstr "et raisonnablement"
+
+#: microblogposter_options.php:4522
+msgid "Number of posts to auto publish each time:"
+msgstr "Nombre d'articles à publier à chaque exécution:"
+
+#: microblogposter_options.php:4523
+msgid "posts"
+msgstr "articles"
+
+#: microblogposter_options.php:4526
+msgid "Min age of published post to be eligible. (0 for no min limit):"
+msgstr "Ancienneté minimale de l'article publié pour être candidat. "
+"(0 pour pas de limite minimale)"
+
+#: microblogposter_options.php:4527 microblogposter_options.php:4531
+#: microblogposter_options.php:4535
+msgid "days"
+msgstr "jours"
+
+#: microblogposter_options.php:4530
+msgid "Max age of published post to be eligible. (0 for no max limit):"
+msgstr "Ancienneté maximale de l'article publié pour être candidat."
+"(0 pour pas de limite maximale)"
+
+#: microblogposter_options.php:4534
+msgid ""
+"Period after which the re-published old post is eligible again (0 for never):"
+msgstr "Période après laquelle l'ancien article republié devient candidat de nouveau "
+"(0 pour jamais):"
+
+#: microblogposter_options.php:4542
+msgid "Categories to exclude old posts from Cross Posting:"
+msgstr "Les catégories pour lesquelles l'auto publication d'anciens articles "
+"est désactivée."
+
+#: microblogposter_options.php:4546
+msgid ""
+"Check categories for which you want to disable old posts auto publishing."
+msgstr "Sélectionnez les catégories pour lesquelles vous souhaitez désactiver "
+"l'auto publication d'anciens articles."
+
+#: microblogposter_options.php:4532
+msgid ""
+"Check Custom Post Types for which you want to enable old posts auto publishing."
+msgstr "Sélectionnez les types de contenu personnalisé pour lesquels "
+"vous souhaitez activer la publication automatique d'anciens articles."
+
+#: microblogposter_options.php:4571 microblogposter_options.php:4674
+msgid "Select the social accounts to update:"
+msgstr "Sélectionnez les comptes sociaux à mettre à jour:"
+
+#: microblogposter_options.php:4581
+msgid ""
+"Sharing manually to your social accounts is available with the Enterprise "
+"Add-on"
+msgstr "L'auto partage manuel sur les réseaux sociaux est disponible avec "
+"l'extension Entreprise"
+
+#: microblogposter_options.php:4590
+msgid "Please verify your License Key before you can manually auto share."
+msgstr "Veuillez enregister votre Clé de Licence Client avant de pouvoir "
+"partager manuellement."
+
+#: microblogposter_options.php:4593
+msgid "Manually auto share to your configured social accounts:"
+msgstr "Auto Partagez manuellement sur vos comptes sociaux:"
+
+#: microblogposter_options.php:4595
+msgid ""
+"You can share an <strong>url</strong> or a simple <strong>text status "
+"update</strong> to all your configured social accounts."
+msgstr "Vous pouvez partager une <strong>adresse web (url)</strong> "
+"ou simplement une <strong>Mise à jour de statut texte</strong> "
+"sur tous vos comptes configurés."
+
+#: microblogposter_options.php:4596
+msgid ""
+"This is totally independent from your blog, by auto sharing you don't create "
+"any new item in your blog."
+msgstr "C'est totalement indépendant de votre blog, en partageant automatiquement "
+"vous ne créez pas de nouveau contenu dans votre blog."
+
+#: microblogposter_options.php:4597
+msgid ""
+"Manual auto posting will appear in Logs/History, as usual, only labelled "
+"'Manual'. "
+msgstr "Le partage automatique manuel apparaîtra dans la partie Logs/Historique, "
+"seulement étiquetés 'Manuel'."
+
+#: microblogposter_options.php:4603
+msgid "Successfully posted to social accounts."
+msgstr "Publié avec succès sur les réseaux sociaux."
+
+#: microblogposter_options.php:4609
+msgid "Please fill in the required fields."
+msgstr "Veuillez saisir tous les champs obligatoires."
+
+#: microblogposter_options.php:4615
+msgid "Please validate your Customer License Key."
+msgstr "Veuillez enregister votre Clé de Licence Client."
+
+#: microblogposter_options.php:4631
+msgid "Title"
+msgstr "Titre"
+
+#: microblogposter_options.php:4637
+msgid "Url"
+msgstr "Adresse Web (Url)"
+
+#: microblogposter_options.php:4643
+msgid "Description"
+msgstr "Description"
+
+#: microblogposter_options.php:4647
+msgid ""
+"Optional. Description/Excerpt of the Url, used with Facebook, Linkedin, "
+"Tumblr."
+msgstr "Facultatif. Description/Extrait de l'adresse web, utilisé pour "
+"Facebook, Linkedin, Tumblr."
+
+#: microblogposter_options.php:4658
+msgid "Message"
+msgstr "Message"
+
+#: microblogposter_options.php:4663
+msgid ""
+"Text message as it will be shared. Message formats below aren't used for "
+"'text' type."
+msgstr "Message texte qui sera partagé. Les formats de message ci-dessous "
+"ne sont pas utilisés pour le partage de type 'texte'."
+
+#: microblogposter_options.php:4664
+msgid ""
+"Currently doesn't work with Linkedin. And Diigo, Delicious and Instapaper "
+"don't support sharing text."
+msgstr "Actuellement ne fonctionne pas avec Linkedin. Diigo, Delicious "
+"et Instapaper ne supportent pas le partage texte."
+
+#: microblogposter_options.php:4671
+msgid "Share"
+msgstr "Partager"
+
+#: microblogposter_options.php:4684
+msgid "Logs Section:"
+msgstr "Partie Logs:"
+
+#: microblogposter_options.php:4688
+msgid "Empty Logs"
+msgstr "Vider les Logs"
+
+#: microblogposter_options.php:4694
+msgid "DateTime"
+msgstr "Date Heure"
+
+#: microblogposter_options.php:4695
+msgid "Username"
+msgstr "Identifiant"
+
+#: microblogposter_options.php:4696
+msgid "Log message"
+msgstr "Contenu du Log"
+
+#: microblogposter_options.php:4697
+msgid "Post ID"
+msgstr "ID Article"
+
+#: microblogposter_options.php:4717
+msgid "Manual"
+msgstr "Manuel"
+
+#: microblogposter_options.php:4718
+msgid "Old"
+msgstr "Ancien"
+
+#: microblogposter_options.php:5129
+msgid "Delete permanently all your logs?"
+msgstr "Supprimer de façon permanente tous vos logs?"
+
+#: microblogposter_options.php:5169
+msgid "Hide"
+msgstr "Masquer"
+
+#: microblogposter_options.php:5212
+msgid "Hide Additional Shorteners"
+msgstr "Masquer les réducteurs supplémentaires"
+
+#: microblogposter_options.php:5263
+msgid "Don't cross-post automatically on Update"
+msgstr "Ne pas publier automatiquement lors d'une Modification"
+
+#: microblogposter_options.php:5264
+msgid "This is most likely to be checked."
+msgstr "Probablement doit être cochée."
+
+#: microblogposter_options.php:5477 microblogposter_options.php:5718
+msgid "Accounts"
+msgstr "Comptes"
+
+#: microblogposter_options.php:5479 microblogposter_options.php:5720
+msgid "Uncheck All"
+msgstr "Décocher tout"
+
+#: microblogposter_options.php:5479 microblogposter_options.php:5720
+msgid "Check All"
+msgstr "Cocher tout"
+
+#: microblogposter_options.php:5481 microblogposter_options.php:5483
+#: microblogposter_options.php:5723 microblogposter_options.php:5725
+#: microblogposter_options.php:5727 microblogposter_options.php:5729
+msgid "Available shortcodes:"
+msgstr "Codes courts disponibles:"
+
+#: microblogposter_options.php:5503
+msgid "Message Format for Manual Posting:"
+msgstr "Format du Message pour Publication Manuelle:"
+
+#: microblogposter_options.php:5752
+msgid "Message Format for Old Posts:"
+msgstr "Format du Message pour Anciens Articles:"
+
+msgid "Error: The MicroblogPoster's Pro/Enterprise Add-on License Key isn't valid."
+msgstr "Erreur: La Clé de Licence Client pour l'extension Pro/Entreprise "
+"n'est pas valide."
+
+#. Plugin Name of the plugin/theme
+msgid "Microblog Poster"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://efficientscripts.com/microblogposter"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Automatically publishes your new and old blog content to Social Networks. "
+"Auto posts to Twitter, Facebook, Linkedin, Tumblr, Blogger, Xing.."
+msgstr ""
+"Publie automatiquement le nouveau et l'ancien contenu de votre blog sur les "
+"Réseaux Sociaux. Mise à jour automatique de Twitter, Facebook, Linkedin, "
+"Tumblr, Blogger, Xing.."
+
+#. Author of the plugin/theme
+msgid "Efficient Scripts"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://efficientscripts.com/"
+msgstr ""

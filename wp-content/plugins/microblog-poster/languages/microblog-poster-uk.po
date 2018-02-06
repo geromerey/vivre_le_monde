@@ -1,0 +1,1578 @@
+# Copyright (C) 2015 Microblog Poster
+# This file is distributed under the same license as the Microblog Poster package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Microblog Poster 1.5.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/microblog-poster\n"
+"POT-Creation-Date: 2015-04-26 12:43:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-04-27 01:00+1\n"
+"Last-Translator: EFFICIENT SCRIPTS \n"
+"Language-Team: EFFICIENT SCRIPTS \n"
+
+#: microblogposter.php:2768 microblogposter.php:2829 microblogposter.php:2895
+msgid "Disable Microblog Poster this time?"
+msgstr "Вимкнути MicroblogPoster в цей раз?"
+
+#: microblogposter.php:2795 microblogposter.php:2805 microblogposter.php:2855
+#: microblogposter.php:2865 microblogposter.php:2921 microblogposter.php:2931
+msgid "Show complete Control Dashboard"
+msgstr "Показати повну консоль керування"
+
+#: microblogposter.php:2800 microblogposter.php:2860 microblogposter.php:2926
+msgid "Hide complete Control Dashboard"
+msgstr "Приховати повну консоль керування"
+
+#: microblogposter_options.php:317
+msgid "Options saved."
+msgstr "Параметри збережено."
+
+#: microblogposter_options.php:530
+msgid "Account added successfully."
+msgstr "Обліковий запис успішно додано."
+
+#: microblogposter_options.php:710
+msgid "Account updated successfully."
+msgstr "Обліковий запис успішно оновлено."
+
+#: microblogposter_options.php:730
+msgid "Account deleted successfully."
+msgstr "Обліковий запис успішно видалено."
+
+#: microblogposter_options.php:1294
+msgid "You can use shortcodes:"
+msgstr "Можна використовувати скорочені коди:"
+
+#: microblogposter_options.php:1295
+msgid "Title of the blog post."
+msgstr "Назва запису в блозі."
+
+#: microblogposter_options.php:1295
+msgid "Full content of the blog post."
+msgstr "Контент запису в блозі."
+
+#: microblogposter_options.php:1296
+msgid "Url of the blog post."
+msgstr "URL запису в блозі."
+
+#: microblogposter_options.php:1297
+msgid "The blog post shortened url."
+msgstr "Скорочений URL запису в блозі."
+
+#: microblogposter_options.php:1298
+msgid "Your blog/site url."
+msgstr "URL вашого блогу/сайту."
+
+#: microblogposter_options.php:1299
+msgid "Manually entered post excerpt, otherwise empty string."
+msgstr "Введена вручну цитата запису, або порожній рядок."
+
+#: microblogposter_options.php:1300
+msgid "If provided equals to manual excerpt, otherwise auto generated."
+msgstr "При наявності введеної вручну цитати дорівнює їй, інакше генерується автоматично."
+
+#: microblogposter_options.php:1301
+msgid "First few words of your content, suitable for twitter-like sites."
+msgstr "Перші кілька слів вашого контенту, що підходять для сайтів типу Twitter."
+
+#: microblogposter_options.php:1302
+msgid "The author's name."
+msgstr "Ім'я автора."
+
+#: microblogposter_options.php:1318
+msgid "Mandatory. Easily identify it, not used for posting."
+msgstr "Обов'язково. Просто вкажіть, не використовується для постингу."
+
+#: microblogposter_options.php:1325
+msgid "<span class=\"microblogposter-name\">MicroblogPoster</span> Settings"
+msgstr "Настройки <span class=\"microblogposter-name\">MicroblogPoster</span>"
+
+#: microblogposter_options.php:1327
+msgid "Advanced features are available with the Pro / Enterprise Add-on"
+msgstr "Надбудова Pro / Enterprise має розширені можливості."
+
+#: microblogposter_options.php:1328 microblogposter_options.php:1478
+#: microblogposter_options.php:1480 microblogposter_options.php:3572
+#: microblogposter_options.php:3710 microblogposter_options.php:3773
+#: microblogposter_options.php:3929 microblogposter_options.php:4569
+#: microblogposter_options.php:4571
+msgid "Upgrade Now"
+msgstr "Оновити"
+
+#: microblogposter_options.php:1333
+msgid ""
+"The idea behind <span class=\"microblogposter-name\">MicroblogPoster</span> "
+"is to promote your wordpress blog and reach more people through social "
+"networks."
+msgstr "Ідея, що лежить в основі <span class=\"microblogposter-name\">MicroblogPoster</span> "
+", це просування вашого блогу Wordpress та встановлення нових контактів з людьми через соціальні мережі."
+
+#: microblogposter_options.php:1334
+msgid ""
+"There's a general agreement in the SEO community that social signals "
+"strengthen your blog's page rank and authority."
+msgstr "SEO-спільнота має загальну угода про те, що соціальні сигнали піднімають "
+"рейтинг і авторитет сторінки вашого блогу."
+
+#: microblogposter_options.php:1335
+msgid ""
+"<span class=\"microblogposter-name\">MicroblogPoster</span> is simply an "
+"intermediary between your blog and your own social network accounts."
+msgstr "<span class=\"microblogposter-name\">MicroblogPoster</span> "
+"це просто посередник між вашими обліковими записами у вашому блозі та в соціальних мережах."
+
+#: microblogposter_options.php:1336
+msgid ""
+"You'll never see \"posted by MicroblogPoster\" in your updates, you'll see "
+"\"posted by your own App name\" or simply \"by API\"."
+msgstr "Ви ніколи не побачите \"опубліковано MicroblogPoster\" у своїх оновленнях, "
+"ви побачите \"опубліковано вашим власним додатком\" або просто "
+"\"опубліковано API\"."
+
+#: microblogposter_options.php:1337
+msgid ""
+"If you like <span class=\"microblogposter-name\">MicroblogPoster</span> or "
+"just find it useful, please <a class=\"mbp-add-review-link\" href=\"https://"
+"wordpress.org/support/view/plugin-reviews/microblog-poster\" target=\"_blank"
+"\">Add a review</a>"
+msgstr "Якщо вам подобається "
+"<span class=\"microblogposter-name\">MicroblogPoster</span> або просто знаходите його корисним, "
+"<a class=\"mbp-add-review-link\" href=\"https://"
+"wordpress.org/support/view/plugin-reviews/microblog-poster\" target=\"_blank"
+"\">Будь ласка, додайте відгук</a>"
+
+#: microblogposter_options.php:1341
+msgid ""
+"In order to complete the MicroblogPoster's Pro / Enterprise Add-on "
+"installation, please Save your Customer License Key."
+msgstr "Щоб завершити інсталяцію надбудови Pro / Enterprise для Microblog Poster, "
+"збережіть, будь ласка, свій ключ користувацької ліцензії."
+
+#: microblogposter_options.php:1344
+msgid "Customer License Key"
+msgstr "Ключ користувацької ліцензії"
+
+#: microblogposter_options.php:1345
+msgid "Valid"
+msgstr "Дійсний"
+
+#: microblogposter_options.php:1345
+msgid "Not Valid"
+msgstr "Недійсний"
+
+#: microblogposter_options.php:1346 microblogposter_options.php:1889
+#: microblogposter_options.php:2039 microblogposter_options.php:2123
+#: microblogposter_options.php:2216 microblogposter_options.php:2513
+#: microblogposter_options.php:2687 microblogposter_options.php:2838
+#: microblogposter_options.php:3067 microblogposter_options.php:5150
+msgid "Edit"
+msgstr "Редагувати"
+
+#: microblogposter_options.php:1353
+msgid "Save License Key"
+msgstr "Зберегти ключ ліцензії"
+
+#: microblogposter_options.php:1360
+msgid "General Options"
+msgstr "Основні параметри"
+
+#: microblogposter_options.php:1361
+msgid "Social Networks Accounts"
+msgstr "Облікові записи соціальних мереж"
+
+#: microblogposter_options.php:1362
+msgid "**Auto Publish Old Posts**"
+msgstr "**Автопублікація старих записів**"
+
+#: microblogposter_options.php:1363
+msgid "Manual Auto Publishing"
+msgstr "Ручна автопублікація"
+
+#: microblogposter_options.php:1364
+msgid "Logs/History"
+msgstr "Логи/Історія"
+
+#: microblogposter_options.php:1370
+msgid "Choose your general options"
+msgstr "Виберіть свої основні параметри"
+
+msgid "Multi-Author :"
+msgstr "Multi-Автор :"
+
+msgid "Enable Multi-Author Mode :"
+msgstr "Активувати режим Multi-Автор :"
+
+msgid "Who can create personal accounts and auto publish :"
+msgstr "Хто може створювати свої облікові записи і робити автопублікацію :"
+
+msgid "Who can auto publish :"
+msgstr "Хто може робити автопублікацію :"
+
+#: microblogposter_options.php:1375
+msgid "Url Shortener"
+msgstr "Скорочувач URL"
+
+#: microblogposter_options.php:1383 microblogposter_options.php:1424
+#: microblogposter_options.php:1490 microblogposter_options.php:1539
+#: microblogposter_options.php:1560
+msgid "Help with screenshots in english"
+msgstr "Допомога зі скріншотами англійською"
+
+#: microblogposter_options.php:1389
+msgid "Bitly API Username :"
+msgstr "Ім'я користувача API Bitly :"
+
+#: microblogposter_options.php:1396
+msgid "Bitly API Key :"
+msgstr "Ключ API Bitly :"
+
+#: microblogposter_options.php:1404
+msgid "OR"
+msgstr "АБО"
+
+#: microblogposter_options.php:1407
+msgid "Bitly Access Token :"
+msgstr "Маркер доступу Bitly :"
+
+#: microblogposter_options.php:1415
+msgid ""
+"The combination of username/API key for authenticating with Bitly is now "
+"<span class=\"mbp-deprecated\">deprecated</span> (still works)."
+msgstr "Сполучення імені користувача / ключа API для аутентифікації в Bitly "
+"<span class=\"mbp-deprecated\">застаріло</span> (продовжує працювати)."
+
+#: microblogposter_options.php:1416
+msgid "Recommended way is the oauth access token only authentication."
+msgstr "Рекомендується аутентифікація тільки через маркер доступу OAuth."
+
+#: microblogposter_options.php:1430
+msgid "Goo.gl Client ID :"
+msgstr "ID клієнта Goo.gl :"
+
+#: microblogposter_options.php:1437
+msgid "Goo.gl Client Secret :"
+msgstr "Секрет клієнта Goo.gl :"
+
+#: microblogposter_options.php:1451
+msgid ""
+"Authorization is valid permanently. Refresh only if you changed Client ID "
+"and Client Secret."
+msgstr "Авторизація дійсна завжди. Оновлюється, тільки якщо поміняли ID клієнта і секрет клієнта."
+
+#: microblogposter_options.php:1452 microblogposter_options.php:1894
+#: microblogposter_options.php:2408 microblogposter_options.php:2691
+#: microblogposter_options.php:2844 microblogposter_options.php:2980
+#: microblogposter_options.php:3242
+msgid "Refresh authorization now"
+msgstr "Оновити авторизацію"
+
+#: microblogposter_options.php:1455
+msgid "Please authorize before you can shorten urls."
+msgstr "Перш ніж скорочувати URL-и, авторизуйтеся, будь ласка."
+
+#: microblogposter_options.php:1455
+msgid "Authorize"
+msgstr "Авторизуватися"
+
+#: microblogposter_options.php:1461
+msgid ""
+"Please <span class=\"mbp-deprecated\">Save the Client ID and Client Secret "
+"first</span> then you can Authorize/Re-Authorize the goo.gl account."
+msgstr "<span class=\"mbp-deprecated\">Спочатку збережіть, будь ласка, ID клієнта "
+"і секрет клієнта</span>, а потім можна авторизувати/переавторизувати  обліковий запис goo.gl."
+
+#: microblogposter_options.php:1468 microblogposter_options.php:5193
+msgid "Show Additional Shorteners..."
+msgstr "Показати додаткові скорочувачі..."
+
+#: microblogposter_options.php:1476
+msgid "Additional Shorteners are only available with the Enterprise Add-on."
+msgstr "Додаткові скорочувачі є доступними тільки з надбудовою Enterprise."
+
+#: microblogposter_options.php:1495
+msgid "Adf.ly Api Key :"
+msgstr "Ключ API Adf.ly :"
+
+#: microblogposter_options.php:1502
+msgid "Adf.ly User Id :"
+msgstr "ID користувача Adf.ly :"
+
+#: microblogposter_options.php:1509
+msgid "Adf.ly Domain :"
+msgstr "Домен Adf.ly :"
+
+#: microblogposter_options.php:1511
+msgid "(ay.gy will be used for twitter)"
+msgstr "(ay.gy буде використовуватися для Twitter)"
+
+#: microblogposter_options.php:1523
+msgid "custom"
+msgstr "користувацький"
+
+#: microblogposter_options.php:1529
+msgid ""
+"<span class=\"mbp-deprecated\">Facebook blocks sharing adf.ly related links."
+"</span>"
+msgstr ""
+"<span class=\"mbp-deprecated\">Facebook блокує розміщення посилань, пов'язаних з adf.ly."
+"</span>"
+
+#: microblogposter_options.php:1530
+msgid ""
+"<span class=\"mbp-deprecated\"> Twitter only accepts ay.gy links</span> "
+"(auto replacement of adf.ly)"
+msgstr ""
+"<span class=\"mbp-deprecated\"> Twitter приймає тільки посилання ay.gy </span> "
+"(автозаміна для adf.ly)"
+
+#: microblogposter_options.php:1531
+msgid "We don't know if the custom domain will work with Facebook or Twitter."
+msgstr "Ми не знаємо, чи буде користувацький домен працювати з Facebook або Twitter."
+
+#: microblogposter_options.php:1532
+msgid "All the other social sites seem to accept adf.ly related links."
+msgstr "Всі інші сайти соціальних мереж, судячи з усього, приймають посилання, пов'язані з adf.ly."
+
+#: microblogposter_options.php:1544
+msgid "Adfoc.us Api Key :"
+msgstr "Ключ API Adfoc.us :"
+
+#: microblogposter_options.php:1552
+msgid ""
+"<span class=\"mbp-deprecated\">Facebook blocks sharing adfoc.us related "
+"links.</span>"
+msgstr ""
+"<span class=\"mbp-deprecated\">Facebook блокує розміщення посилань, пов'язаних з adfoc.us."
+"</span>"
+
+#: microblogposter_options.php:1553
+msgid "All the other social sites seem to accept adfoc.us related links."
+msgstr "Всі інші сайти соціальних мереж, судячи з усього, приймають посилання, пов'язані з adfoc.us."
+
+#: microblogposter_options.php:1565
+msgid "P.pw User ID :"
+msgstr "ID користувача P.pw :"
+
+#: microblogposter_options.php:1573
+msgid "All the social sites seem to accept p.pw related links."
+msgstr "Всі сайти соціальних мереж, судячи з усього, приймають посилання, пов'язані з p.pw."
+
+#: microblogposter_options.php:1581
+msgid "Enable Category-Driven Mode :"
+msgstr "Автопублікація за категоріями :"
+
+#: microblogposter_options.php:1581
+msgid "Enable Category-Driven Mode?"
+msgstr "Автопублікація за категоріями?"
+
+#: microblogposter_options.php:1581
+msgid "Default behavior :"
+msgstr "Поведінка за замовчуванням :"
+
+#: microblogposter_options.php:1476
+msgid "Available with the Enterprise Add-on."
+msgstr "У наявності в надбудові Enterprise."
+
+#: microblogposter_options.php:1581
+msgid "More Infos"
+msgstr "Більше інформації"
+
+#: microblogposter_options.php:1581
+msgid "Assign categories :"
+msgstr "Зв'язати із категорією :"
+
+#: microblogposter_options.php:1581
+msgid "Show"
+msgstr "Показати"
+
+#: microblogposter_options.php:1581
+msgid "Posts :"
+msgstr "Записи :"
+
+#: microblogposter_options.php:1586
+msgid "Default per NEW POST behavior :"
+msgstr "Поведінка за замовчуванням на НОВУ ЗАПИС :"
+
+#: microblogposter_options.php:1590 microblogposter_options.php:1599
+#: microblogposter_options.php:1620 microblogposter_options.php:1629
+msgid "Don't cross-post automatically :"
+msgstr "Не робити кроспост автоматично :"
+
+#: microblogposter_options.php:1595
+msgid "Default per POST UPDATE behavior :"
+msgstr "Поведінка за замовчуванням на ОНОВЛЕННЯ ЗАПИСУ :"
+
+#: microblogposter_options.php:1600 microblogposter_options.php:1630
+msgid "(This is most likely to be checked.)"
+msgstr "(Швидше за все це треба вибрати.)"
+
+#: microblogposter_options.php:1607
+msgid "Pages :"
+msgstr "Сторінки :"
+
+#: microblogposter_options.php:1611
+msgid ""
+"Enable <span class=\"microblogposter-name\">MicroblogPoster</span> for "
+"pages :"
+msgstr ""
+"Ввімкнути <span class=\"microblogposter-name\">MicroblogPoster</span> "
+"для сторінок :"
+
+#: microblogposter_options.php:1616
+msgid "Default per NEW PAGE behavior :"
+msgstr "Поведінка за замовчуванням на НОВУ СТОРІНКУ :"
+
+#: microblogposter_options.php:1625
+msgid "Default per PAGE UPDATE behavior :"
+msgstr "Поведінка за замовчуванням на ОНОВЛЕННЯ СТОРІНКИ :"
+
+#: microblogposter_options.php:1637
+msgid "Custom Post Types :"
+msgstr "Типи користувацьких записів :"
+
+#: microblogposter_options.php:1642
+msgid ""
+"Check Custom Post Types for which you want to enable <span class="
+"\"microblogposter-name\">MicroblogPoster</span>."
+msgstr ""
+"Позначте типи користувацьких записів, для яких ви хочете ввімкнути <span class="
+"\"microblogposter-name\">MicroblogPoster</span>."
+
+#: microblogposter_options.php:1663
+msgid "Currently, no custom types are active."
+msgstr "В даний момент немає активних користувацьких типів."
+
+#: microblogposter_options.php:1674
+msgid "Categories to exclude posts from Cross Posting :"
+msgstr "Рубрики для вилучення записів з кроспостингу :"
+
+#: microblogposter_options.php:1679
+msgid ""
+"Check categories for which you want to disable automatically <span class="
+"\"microblogposter-name\">MicroblogPoster</span> from cross-posting."
+msgstr "Позначте рубрики, для яких ви хочете автоматично вимкнути "
+"<span class=\"microblogposter-name\">MicroblogPoster</span> для кросспостингу."
+
+#: microblogposter_options.php:1703
+msgid "Shortcodes adjustments :"
+msgstr "Настройки скорочених кодів :"
+
+#: microblogposter_options.php:1707
+msgid ""
+"Change only if you know what you're doing, otherwise default values are just "
+"fine."
+msgstr "Міняйте, тільки якщо знаєте, що робите, інакше залиште значення за "
+"замовчуванням, які підходять."
+
+#: microblogposter_options.php:1710
+msgid "max length:"
+msgstr "максимальна довжина:"
+
+#: microblogposter_options.php:1711 microblogposter_options.php:1715
+#: microblogposter_options.php:1719
+msgid "characters"
+msgstr "символи"
+
+#: microblogposter_options.php:1711 microblogposter_options.php:1715
+#: microblogposter_options.php:1719 microblogposter_options.php:4505
+#: microblogposter_options.php:4509 microblogposter_options.php:4513
+#: microblogposter_options.php:4517 microblogposter_options.php:4521
+msgid "default value"
+msgstr "значення за замовчуванням"
+
+#: microblogposter_options.php:1711 microblogposter_options.php:1715
+#: microblogposter_options.php:1719 microblogposter_options.php:4505
+#: microblogposter_options.php:4509 microblogposter_options.php:4513
+#: microblogposter_options.php:4517 microblogposter_options.php:4521
+msgid "range between"
+msgstr "варіюється між"
+
+#: microblogposter_options.php:1711 microblogposter_options.php:1715
+#: microblogposter_options.php:1719 microblogposter_options.php:4509
+msgid "and"
+msgstr "и"
+
+#: microblogposter_options.php:1714 microblogposter_options.php:1718
+msgid "length:"
+msgstr "довжина:"
+
+#: microblogposter_options.php:1718
+msgid "(Used when auto generated)"
+msgstr "(застосовується при автогенеруванні)"
+
+msgid "Apply filters prior to auto publishing :"
+msgstr "Застосування фільтрів до автоматичну публікацію :"
+
+msgid "Shortcodes filtered :"
+msgstr "Фільтрують скорочені коди :"
+
+#: microblogposter_options.php:1724
+msgid "Pro / Enterprise Add-on Section:"
+msgstr "Розділ надбудови Pro / Enterprise:"
+
+#: microblogposter_options.php:1728
+msgid "MicroblogPoster's Control Dashboard :"
+msgstr "Консоль керування MicroblogPoster :"
+
+#: microblogposter_options.php:1733
+msgid "If you're posting to your blog by email,"
+msgstr "Якщо ви відправляєте запис на свій блог по email,"
+
+#: microblogposter_options.php:1734
+msgid ""
+"you'll need to disable the MicroblogPoster's Control Dashboard in order to "
+"cross-post successfully."
+msgstr "вам необхідно буде вимкнути консоль керування MicroblogPoster, "
+"щоб кроспостинг відбувався успішно."
+
+#: microblogposter_options.php:1738
+msgid "Disable the control dashboard:"
+msgstr "Вимкнути консоль керування:"
+
+#: microblogposter_options.php:1744
+msgid "Update Options"
+msgstr "Параметри оновлення"
+
+#: microblogposter_options.php:1750
+msgid "Configure Your Social Networks Accounts :"
+msgstr "Конфігурувати свої облікові записи соціальний мереж :"
+
+#: microblogposter_options.php:1752
+msgid "Add New Account"
+msgstr "Додати новий обліковий запис"
+
+#: microblogposter_options.php:1761
+msgid "Twitter Accounts"
+msgstr "Облікові записи Twitter"
+
+#: microblogposter_options.php:1796 microblogposter_options.php:1928
+#: microblogposter_options.php:2060 microblogposter_options.php:2147
+#: microblogposter_options.php:2273 microblogposter_options.php:2437
+#: microblogposter_options.php:2560 microblogposter_options.php:2738
+#: microblogposter_options.php:2887 microblogposter_options.php:3005
+#: microblogposter_options.php:3109 microblogposter_options.php:3258
+msgid "<span class=\"microblogposter-name\">MicroblogPoster</span> Plugin"
+msgstr "Плагін <span class=\"microblogposter-name\">MicroblogPoster</span>"
+
+#: microblogposter_options.php:1798 microblogposter_options.php:1874
+msgid "Twitter Account:"
+msgstr "Обліковий запис Twitter:"
+
+#: microblogposter_options.php:1802 microblogposter_options.php:1934
+#: microblogposter_options.php:2066 microblogposter_options.php:2153
+#: microblogposter_options.php:2279 microblogposter_options.php:2443
+#: microblogposter_options.php:2566 microblogposter_options.php:2744
+#: microblogposter_options.php:2893 microblogposter_options.php:3011
+#: microblogposter_options.php:3115 microblogposter_options.php:3280
+#: microblogposter_options.php:3341 microblogposter_options.php:3418
+#: microblogposter_options.php:3446 microblogposter_options.php:3481
+#: microblogposter_options.php:3577 microblogposter_options.php:3619
+#: microblogposter_options.php:3715 microblogposter_options.php:3778
+#: microblogposter_options.php:3830 microblogposter_options.php:3858
+msgid "Username:"
+msgstr "Ім'я користувача:"
+
+msgid "Board Name:"
+msgstr "Ім'я плати:"
+
+#: microblogposter_options.php:1808 microblogposter_options.php:1967
+#: microblogposter_options.php:2079 microblogposter_options.php:2165
+#: microblogposter_options.php:2315 microblogposter_options.php:2462
+#: microblogposter_options.php:2602 microblogposter_options.php:2758
+#: microblogposter_options.php:2907 microblogposter_options.php:3023
+#: microblogposter_options.php:3152 microblogposter_options.php:3286
+#: microblogposter_options.php:3374 microblogposter_options.php:3431
+#: microblogposter_options.php:3458 microblogposter_options.php:3518
+#: microblogposter_options.php:3596 microblogposter_options.php:3656
+#: microblogposter_options.php:3729 microblogposter_options.php:3792
+#: microblogposter_options.php:3842 microblogposter_options.php:3885
+msgid "Message Format:"
+msgstr "Формат повідомлення:"
+
+#: microblogposter_options.php:1812 microblogposter_options.php:1971
+#: microblogposter_options.php:2083 microblogposter_options.php:2169
+#: microblogposter_options.php:2319 microblogposter_options.php:2466
+#: microblogposter_options.php:2606 microblogposter_options.php:2762
+#: microblogposter_options.php:2911 microblogposter_options.php:3027
+#: microblogposter_options.php:3156 microblogposter_options.php:3290
+#: microblogposter_options.php:3378 microblogposter_options.php:3435
+#: microblogposter_options.php:3462 microblogposter_options.php:3522
+#: microblogposter_options.php:3600 microblogposter_options.php:3660
+#: microblogposter_options.php:3733 microblogposter_options.php:3796
+#: microblogposter_options.php:3846 microblogposter_options.php:3889
+msgid "Message that's actually posted."
+msgstr "Повідомлення, яке фактично публікується."
+
+#: microblogposter_options.php:1821 microblogposter_options.php:1980
+#: microblogposter_options.php:2791 microblogposter_options.php:3299
+#: microblogposter_options.php:3387 microblogposter_options.php:3759
+msgid "Consumer Key:"
+msgstr "Ключ користувача:"
+
+#: microblogposter_options.php:1828 microblogposter_options.php:1987
+#: microblogposter_options.php:2798 microblogposter_options.php:3306
+#: microblogposter_options.php:3394 microblogposter_options.php:3766
+msgid "Consumer Secret:"
+msgstr "Секрет користувача:"
+
+#: microblogposter_options.php:1839
+msgid ""
+"The two fields below 'Access Token' and 'Access Token Secret' are either "
+"generated interactively or you provided them manually."
+msgstr "Ці два поля 'Маркер доступу' і 'Секрет маркера доступу', "
+"які розташовані нижче, або генеруються інтерактивно, або створюються вами вручну."
+
+#: microblogposter_options.php:1840
+msgid ""
+"In any case these two fields are MANDATORY in order to successfully post to "
+"twitter."
+msgstr "У будь-якому випадку ці два поля ОБОВ'ЯЗКОВІ для успішного відправлення "
+"записів у Twitter."
+
+#: microblogposter_options.php:1844 microblogposter_options.php:1994
+#: microblogposter_options.php:3196 microblogposter_options.php:3324
+#: microblogposter_options.php:3401
+msgid "Access Token:"
+msgstr "Маркер доступу:"
+
+#: microblogposter_options.php:1851 microblogposter_options.php:2001
+#: microblogposter_options.php:3331 microblogposter_options.php:3408
+msgid "Access Token Secret:"
+msgstr "Секрет маркера доступу:"
+
+#: microblogposter_options.php:1863 microblogposter_options.php:1881
+#: microblogposter_options.php:2013 microblogposter_options.php:2031
+#: microblogposter_options.php:2097 microblogposter_options.php:2115
+#: microblogposter_options.php:2190 microblogposter_options.php:2208
+#: microblogposter_options.php:2374 microblogposter_options.php:2392
+#: microblogposter_options.php:2487 microblogposter_options.php:2505
+#: microblogposter_options.php:2661 microblogposter_options.php:2679
+#: microblogposter_options.php:2812 microblogposter_options.php:2830
+#: microblogposter_options.php:2948 microblogposter_options.php:2966
+#: microblogposter_options.php:3041 microblogposter_options.php:3059
+#: microblogposter_options.php:3208 microblogposter_options.php:3226
+#: microblogposter_options.php:3934
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: microblogposter_options.php:1864 microblogposter_options.php:2014
+#: microblogposter_options.php:2098 microblogposter_options.php:2191
+#: microblogposter_options.php:2375 microblogposter_options.php:2488
+#: microblogposter_options.php:2662 microblogposter_options.php:2813
+#: microblogposter_options.php:2949 microblogposter_options.php:3042
+#: microblogposter_options.php:3209 microblogposter_options.php:3935
+#: microblogposter_options.php:4553
+msgid "Save"
+msgstr "Зберегти"
+
+#: microblogposter_options.php:1875 microblogposter_options.php:2025
+#: microblogposter_options.php:2109 microblogposter_options.php:2202
+#: microblogposter_options.php:2386 microblogposter_options.php:2499
+#: microblogposter_options.php:2673 microblogposter_options.php:2824
+#: microblogposter_options.php:2960 microblogposter_options.php:3053
+#: microblogposter_options.php:3220
+msgid "Delete?"
+msgstr "Скасувати?"
+
+#: microblogposter_options.php:1882 microblogposter_options.php:2032
+#: microblogposter_options.php:2116 microblogposter_options.php:2209
+#: microblogposter_options.php:2393 microblogposter_options.php:2506
+#: microblogposter_options.php:2680 microblogposter_options.php:2831
+#: microblogposter_options.php:2967 microblogposter_options.php:3060
+#: microblogposter_options.php:3227
+msgid "Delete"
+msgstr "Скасувати"
+
+#: microblogposter_options.php:1890 microblogposter_options.php:2040
+#: microblogposter_options.php:2124 microblogposter_options.php:2217
+#: microblogposter_options.php:2514 microblogposter_options.php:2688
+#: microblogposter_options.php:2839 microblogposter_options.php:3068
+msgid "Del"
+msgstr "Скасувати"
+
+#: microblogposter_options.php:1893 microblogposter_options.php:2404
+#: microblogposter_options.php:2843 microblogposter_options.php:2979
+#: microblogposter_options.php:3238
+msgid "Authorization is valid permanently"
+msgstr "Авторизація дійсна завжди"
+
+#: microblogposter_options.php:1895 microblogposter_options.php:1898
+#: microblogposter_options.php:2845 microblogposter_options.php:2848
+msgid "(2 steps required)"
+msgstr "(потребує 2 кроки)"
+
+#: microblogposter_options.php:1897
+msgid "Authorize this Twitter account"
+msgstr "Авторизувати цей обліковий запис Twitter"
+
+#: microblogposter_options.php:1899 microblogposter_options.php:2849
+msgid "Final step, click once again."
+msgstr "Останній крок, натисніть ще раз."
+
+#: microblogposter_options.php:1908
+msgid "Plurk Accounts"
+msgstr "Облікові записи Plurk"
+
+#: microblogposter_options.php:1930 microblogposter_options.php:2024
+msgid "Plurk Account:"
+msgstr "Обліковий запис Plurk:"
+
+#: microblogposter_options.php:1940 microblogposter_options.php:3347
+msgid "Qualifier:"
+msgstr "Кваліфікатор:"
+
+#: microblogposter_options.php:2048
+msgid "FriendFeed Accounts"
+msgstr "Облікові записи FriendFeed"
+
+#: microblogposter_options.php:2062 microblogposter_options.php:2108
+msgid "FriendFeed Account:"
+msgstr "Обліковий запис FriendFeed:"
+
+#: microblogposter_options.php:2072 microblogposter_options.php:3424
+msgid "Remote Key:"
+msgstr "Віддалений ключ:"
+
+#: microblogposter_options.php:2130
+msgid "Delicious Accounts"
+msgstr "Облікові записи Delicious"
+
+#: microblogposter_options.php:2149 microblogposter_options.php:2201
+msgid "Delicious Account:"
+msgstr "Обліковий запис Delicious:"
+
+#: microblogposter_options.php:2159 microblogposter_options.php:2449
+#: microblogposter_options.php:3017 microblogposter_options.php:3452
+#: microblogposter_options.php:3583 microblogposter_options.php:3836
+msgid "Password:"
+msgstr "Пароль:"
+
+#: microblogposter_options.php:2178 microblogposter_options.php:2475
+#: microblogposter_options.php:3471 microblogposter_options.php:3609
+msgid "Include tags:"
+msgstr "Ввімкнути мітки:"
+
+#: microblogposter_options.php:2182 microblogposter_options.php:2479
+#: microblogposter_options.php:3475 microblogposter_options.php:3613
+msgid "Do you want to include tags in the bookmarks?"
+msgstr "Ви хочете ввімкнути мітки у закладки?"
+
+#: microblogposter_options.php:2223
+msgid "Facebook Accounts"
+msgstr "Облікові записи Facebook"
+
+#: microblogposter_options.php:2275 microblogposter_options.php:2385
+msgid "Facebook Account:"
+msgstr "Обліковий запис Facebook:"
+
+#: microblogposter_options.php:2285 microblogposter_options.php:3488
+msgid "Facebook target type:"
+msgstr "Тип цільового об'єкта Facebook:"
+
+#: microblogposter_options.php:2290 microblogposter_options.php:3493
+msgid "Page timeline"
+msgstr "Шкала сторінки"
+
+#: microblogposter_options.php:2292 microblogposter_options.php:2579
+#: microblogposter_options.php:3494 microblogposter_options.php:3631
+msgid "Group timeline"
+msgstr "Шкала групи"
+
+#: microblogposter_options.php:2294 microblogposter_options.php:2581
+#: microblogposter_options.php:3492 microblogposter_options.php:3630
+msgid "Profile timeline"
+msgstr "Шкала профілю"
+
+#: microblogposter_options.php:2299 microblogposter_options.php:3501
+msgid "Page ID:"
+msgstr "ID сторінки:"
+
+#: microblogposter_options.php:2303 microblogposter_options.php:3505
+msgid "Your Facebook Page ID. (numeric)"
+msgstr "ID вашої сторінки Facebook (числовий)"
+
+#: microblogposter_options.php:2307 microblogposter_options.php:2586
+#: microblogposter_options.php:3510 microblogposter_options.php:3639
+msgid "Group ID:"
+msgstr "ID групи:"
+
+#: microblogposter_options.php:2311 microblogposter_options.php:3514
+msgid "Your Facebook Group ID. (numeric)"
+msgstr "ID вашої групи Facebook (числовий)"
+
+#: microblogposter_options.php:2329 microblogposter_options.php:2616
+#: microblogposter_options.php:2772 microblogposter_options.php:3166
+#: microblogposter_options.php:3532 microblogposter_options.php:3670
+#: microblogposter_options.php:3743 microblogposter_options.php:3899
+#: microblogposter_options.php:4608
+msgid "Post Type:"
+msgstr "Тип запису:"
+
+#: microblogposter_options.php:2332 microblogposter_options.php:2775
+#: microblogposter_options.php:3169 microblogposter_options.php:3535
+#: microblogposter_options.php:3746 microblogposter_options.php:3902
+#: microblogposter_options.php:4640
+msgid "Text"
+msgstr "Текст"
+
+#: microblogposter_options.php:2332 microblogposter_options.php:3535
+msgid "(Text only status update.)"
+msgstr "(Оновлення статусу тільки текста.)"
+
+#: microblogposter_options.php:2333 microblogposter_options.php:2620
+#: microblogposter_options.php:2777 microblogposter_options.php:3170
+#: microblogposter_options.php:3536 microblogposter_options.php:3674
+#: microblogposter_options.php:3747 microblogposter_options.php:3903
+#: microblogposter_options.php:4613
+msgid "Link"
+msgstr "Посилання"
+
+#: microblogposter_options.php:2333 microblogposter_options.php:3536
+msgid "(Text message + Facebook link box.)"
+msgstr "(Текстове повідомлення + поле посилання на Facebook.)"
+
+#: microblogposter_options.php:2340 microblogposter_options.php:3543
+msgid ""
+"If you choose to post with link box you'll need a thumbnail for your link. "
+"If your new post contains a featured image, MicroblogPoster will take that "
+"one."
+msgstr "Якщо ви вирішили публікувати записи за допомогою поля посилання, вам знадобиться ескіз для вашого посилання. "
+"Якщо ваш новий запис містить підібране зображення, то Microblog Poster прийме його."
+
+#: microblogposter_options.php:2341 microblogposter_options.php:3544
+msgid ""
+"If not, no explicit image url will be submitted and facebook will try to "
+"fetch appropriate thumbnail for your post. If there is no image, your link "
+"will appear without thumbnail."
+msgstr "Якщо ні, то явний URL зображення не відправляється, і Facebook сам спробує "
+"підібрати підходящий ескіз для вашого запису."
+
+#: microblogposter_options.php:2342 microblogposter_options.php:3545
+msgid ""
+"Otherwise if you don't like image/thumbnail facebook is auto fetching then "
+"specify a default image url just below. This default thumbnail url will be "
+"posted for each new post that doesn't have featured image."
+msgstr "В іншому випадку, якщо вам не сподобається зображення/ескіз, яке автоматично підібрав Facebook, "
+"то задайте трохи нижче URL зображення за замовчуванням. Цей URL ескізу за замовчуванням "
+"буде відправлятися для кожного нового запису, що не має підібраного зображення."
+
+#: microblogposter_options.php:2347 microblogposter_options.php:2634
+#: microblogposter_options.php:3550 microblogposter_options.php:3688
+msgid "Default Image Url:"
+msgstr "URL зображення за замовчуванням:"
+
+#: microblogposter_options.php:2351 microblogposter_options.php:2638
+#: microblogposter_options.php:3554 microblogposter_options.php:3692
+msgid "Default Thumbnail for link box."
+msgstr "Ескіз за замовчуванням для поля посилання."
+
+#: microblogposter_options.php:2355 microblogposter_options.php:2644
+#: microblogposter_options.php:3563 microblogposter_options.php:3701
+msgid "Help"
+msgstr "Допомога"
+
+#: microblogposter_options.php:2355 microblogposter_options.php:2642
+#: microblogposter_options.php:3182 microblogposter_options.php:3558
+#: microblogposter_options.php:3696 microblogposter_options.php:3915
+msgid "Application ID/API Key:"
+msgstr "ID додатку/ключ API:"
+
+#: microblogposter_options.php:2362 microblogposter_options.php:2649
+#: microblogposter_options.php:3189 microblogposter_options.php:3565
+#: microblogposter_options.php:3703 microblogposter_options.php:3922
+msgid "Application Secret:"
+msgstr "Секрет додатку:"
+
+#: microblogposter_options.php:2405
+msgid "Re-Authorize this facebook account"
+msgstr "Переавторизувати цей обліковий запис Facebook"
+
+#: microblogposter_options.php:2407 microblogposter_options.php:2690
+#: microblogposter_options.php:3241
+msgid "Authorization is valid until"
+msgstr "Авторизація дійсна до"
+
+#: microblogposter_options.php:2411
+msgid "Authorize this facebook account"
+msgstr "Авторизувати цей обліковий запис Facebook"
+
+#: microblogposter_options.php:2419
+msgid "Diigo Accounts"
+msgstr "Облікові записи Diigo"
+
+#: microblogposter_options.php:2439 microblogposter_options.php:2498
+msgid "Diigo Account:"
+msgstr "Обліковий запис Diigo:"
+
+#: microblogposter_options.php:2455 microblogposter_options.php:3589
+msgid "API Key:"
+msgstr "Ключ API:"
+
+#: microblogposter_options.php:2520
+msgid "Linkedin Accounts"
+msgstr "Облікові записи Linkedin"
+
+#: microblogposter_options.php:2562 microblogposter_options.php:2672
+msgid "Linkedin Account:"
+msgstr "Обліковий запис Linkedin:"
+
+#: microblogposter_options.php:2572 microblogposter_options.php:3626
+msgid "Linkedin target type:"
+msgstr "Тип цільового об'єкта Linkedin:"
+
+#: microblogposter_options.php:2577 microblogposter_options.php:3632
+msgid "Company timeline"
+msgstr "Шкала компанії"
+
+#: microblogposter_options.php:2590 microblogposter_options.php:3643
+msgid "Your Linkedin Group ID."
+msgstr "ID вашої групи Linkedin."
+
+#: microblogposter_options.php:2594 microblogposter_options.php:3648
+msgid "Company ID:"
+msgstr "ID компанії:"
+
+#: microblogposter_options.php:2598 microblogposter_options.php:3652
+msgid "Your Linkedin Company ID."
+msgstr "ID вашої компанії Linkedin."
+
+#: microblogposter_options.php:2620 microblogposter_options.php:3674
+msgid "(Text message + Linkedin link box.)"
+msgstr "(Текстове повідомлення + поле посилання на Linkedin.)"
+
+#: microblogposter_options.php:2627 microblogposter_options.php:3681
+msgid ""
+"Posting with link box you'll need a thumbnail for your link. If your post "
+"contains a featured image, MicroblogPoster will take that one."
+msgstr "Для опублікування запису за допомогою поля посилання вам знадобиться ескіз для вашого посилання. "
+"Якщо ваш запис містить підібране зображення, то MicroblogPoster прийме його."
+
+#: microblogposter_options.php:2628 microblogposter_options.php:3682
+msgid ""
+"If not, no explicit image url will be submitted and your update will appear "
+"without a thumbnail."
+msgstr "Якщо ні, то явний URL зображення не відправляється і ваше оновлення з'явиться без ескізу."
+
+#: microblogposter_options.php:2629 microblogposter_options.php:3683
+msgid ""
+"If you want always to have an image going with your link then specify a "
+"default image url just below."
+msgstr "Якщо ви хочете, щоб ваше посилання завжди супроводжувалося зображенням, "
+"то задайте трохи нижче URL зображення за замовчуванням."
+
+#: microblogposter_options.php:2630 microblogposter_options.php:3684
+msgid ""
+"This default thumbnail url will be posted for each new post that doesn't "
+"have featured image."
+msgstr "Цей URL ескізу за замовчуванням буде відправлятися для кожного нового запису, "
+"що не має підібраного зображення."
+
+#: microblogposter_options.php:2693
+msgid "Authorize this linkedin account"
+msgstr "Авторизувати цей обліковий запис Linkedin"
+
+#: microblogposter_options.php:2701
+msgid "Tumblr Accounts"
+msgstr "Облікові записи Tumblr"
+
+#: microblogposter_options.php:2740 microblogposter_options.php:2823
+msgid "Tumblr Account:"
+msgstr "Обліковий запис Tumblr:"
+
+#: microblogposter_options.php:2748 microblogposter_options.php:2897
+msgid "Easily identify it later, not used for posting."
+msgstr "Просто вкажіть пізніше, не використовується для постингу."
+
+#: microblogposter_options.php:2751 microblogposter_options.php:3722
+msgid "Blog Hostname:"
+msgstr "Ім'я хоста блогу:"
+
+#: microblogposter_options.php:2755 microblogposter_options.php:2904
+#: microblogposter_options.php:3726 microblogposter_options.php:3789
+msgid "Example:"
+msgstr "Приклад:"
+
+#: microblogposter_options.php:2775 microblogposter_options.php:3746
+msgid "(Text status update.)"
+msgstr "(Оновлення статусу тексту.)"
+
+#: microblogposter_options.php:2777 microblogposter_options.php:3747
+msgid "Tumblr link box status update."
+msgstr "Оновлення статусу поля посилання на Tumblr."
+
+#: microblogposter_options.php:2786 microblogposter_options.php:3754
+msgid ""
+"Link box + description of your post. Message Format field above isn't used."
+msgstr "Поле посилання + опис вашого запису. Поле формату повідомлення, "
+"наведене вгорі, не використовується."
+
+#: microblogposter_options.php:2847
+msgid "Authorize this Tumblr account"
+msgstr "Авторизувати цей обліковий запис Tumblr"
+
+#: microblogposter_options.php:2858
+msgid "Blogger Accounts"
+msgstr "Облікові записи Blogger"
+
+#: microblogposter_options.php:2889 microblogposter_options.php:2959
+msgid "Blogger Account:"
+msgstr "Обліковий запис Blogger:"
+
+#: microblogposter_options.php:2900 microblogposter_options.php:3785
+msgid "Blog Id:"
+msgstr "ID блогу:"
+
+#: microblogposter_options.php:2921 microblogposter_options.php:3806
+msgid "Include featured image:"
+msgstr "Включити підібране зображення:"
+
+#: microblogposter_options.php:2925 microblogposter_options.php:3810
+msgid "Do you want to include featured image in your updates?"
+msgstr "Ви хочете Включити підібране зображення в свої оновлення?"
+
+#: microblogposter_options.php:2929 microblogposter_options.php:3814
+msgid "Client Id:"
+msgstr "ID клієнта:"
+
+#: microblogposter_options.php:2936 microblogposter_options.php:3821
+msgid "Client Secret:"
+msgstr "Секрет клієнта:"
+
+#: microblogposter_options.php:2982
+msgid "Authorize this Blogger account"
+msgstr "Авторизувати цей обліковий запис Blogger"
+
+#: microblogposter_options.php:2992
+msgid "Instapaper Accounts"
+msgstr "Облікові записи Instapaper"
+
+#: microblogposter_options.php:3007 microblogposter_options.php:3052
+msgid "Instapaper Account:"
+msgstr "Обліковий запис Instapaper:"
+
+#: microblogposter_options.php:3074
+msgid "VKontakte Accounts"
+msgstr "Облікові записи ВКонтакте"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "VKontakte Account:"
+msgstr "Обліковий запис ВКонтакте:"
+
+#: microblogposter_options.php:3121 microblogposter_options.php:3865
+msgid "VKontakte target type:"
+msgstr "Тип цільового об'єкта ВКонтакте:"
+
+#: microblogposter_options.php:3126 microblogposter_options.php:3870
+msgid "Public Page wall"
+msgstr "Стіна публічної сторінки"
+
+#: microblogposter_options.php:3128 microblogposter_options.php:3871
+msgid "Group wall"
+msgstr "Стіна групи"
+
+#: microblogposter_options.php:3130 microblogposter_options.php:3872
+msgid "Event wall"
+msgstr "Стіна події"
+
+#: microblogposter_options.php:3132 microblogposter_options.php:3869
+msgid "Profile wall"
+msgstr "Стіна профілю"
+
+#: microblogposter_options.php:3138 microblogposter_options.php:4922
+msgid "Page ID"
+msgstr "ID сторінки"
+
+#: microblogposter_options.php:3140 microblogposter_options.php:4926
+msgid "Group ID"
+msgstr "ID групи"
+
+#: microblogposter_options.php:3142 microblogposter_options.php:4930
+msgid "Event ID"
+msgstr "ID події"
+
+#: microblogposter_options.php:3144 microblogposter_options.php:4813
+#: microblogposter_options.php:4934
+msgid "Profile ID"
+msgstr "ID профілю"
+
+#: microblogposter_options.php:3149 microblogposter_options.php:3882
+msgid "numeric"
+msgstr "числовий"
+
+#: microblogposter_options.php:3169 microblogposter_options.php:3902
+msgid "Text only status update."
+msgstr "Оновлення статусу тільки тексту."
+
+#: microblogposter_options.php:3170 microblogposter_options.php:3903
+msgid "(Text message + VKontakte link box.)"
+msgstr "(Текстове повідомлення + поле посилання на ВКонтакте.)"
+
+#: microblogposter_options.php:3177 microblogposter_options.php:3910
+msgid ""
+"If you choose to post with link box, VKontakte is auto fetching an image "
+"from your post and add it to the link box."
+msgstr "Якщо ви вирішили публікувати записи за допомогою поля посилання, "
+"ВКонтакте автоматично підбере зображення з вашого запису і додасть його до цього поля посилання."
+
+#: microblogposter_options.php:3239
+msgid "Re-Authorize this vkontakte account"
+msgstr "Переавторизувати цей обліковий запис ВКонтакте"
+
+#: microblogposter_options.php:3245
+msgid "Authorize this vkontakte account"
+msgstr "Авторизувати цей обліковий запис ВКонтакте"
+
+#: microblogposter_options.php:3074
+msgid "Xing Accounts"
+msgstr "Облікові записи Xing"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Xing Account:"
+msgstr "Обліковий запис Xing:"
+
+#: microblogposter_options.php:3245
+msgid "Authorize this Xing account"
+msgstr "Авторизувати цей обліковий запис Xing"
+
+#: microblogposter_options.php:2777 microblogposter_options.php:3747
+msgid "Xing link box status update."
+msgstr "Оновлення статусу поля посилання на Xing."
+
+#: microblogposter_options.php:3170 microblogposter_options.php:3903
+msgid "(Text message + Xing link box.)"
+msgstr "(Текстове повідомлення + поле посилання на Xing.)"
+
+msgid "Pinterest Accounts"
+msgstr "Облікові записи Pinterest"
+
+msgid "Pinterest Account:"
+msgstr "Обліковий запис Pinterest:"
+
+msgid "Authorize this Pinterest account"
+msgstr "Авторизувати цей обліковий запис Pinterest"
+
+#: microblogposter_options.php:3074
+msgid "Flickr Accounts"
+msgstr "Облікові записи Flickr"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Flickr Account:"
+msgstr "Обліковий запис Flickr:"
+
+#: microblogposter_options.php:3245
+msgid "Authorize this Flickr account"
+msgstr "Авторизувати цей обліковий запис Flickr"
+
+#: microblogposter_options.php:3245
+msgid "Album Id:"
+msgstr "Альбом ID:"
+
+#: microblogposter_options.php:3074
+msgid "Wordpress Accounts"
+msgstr "Облікові записи Wordpress"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Wordpress Account:"
+msgstr "Обліковий запис Wordpress:"
+
+#: microblogposter_options.php:3245
+msgid "Blog Url:"
+msgstr "URL вашого блогу:"
+
+#: microblogposter_options.php:3074
+msgid "Buffer Accounts"
+msgstr "Облікові записи Buffer"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Buffer Account:"
+msgstr "Обліковий запис Buffer:"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Refresh available accounts"
+msgstr "Оновлення наявних облікових записів"
+
+#: microblogposter_options.php:3074
+msgid "Google+ Accounts"
+msgstr "Облікові записи Google+"
+
+#: microblogposter_options.php:3111 microblogposter_options.php:3219
+msgid "Google+ Account:"
+msgstr "Обліковий запис Google+:"
+
+#: microblogposter_options.php:3260
+msgid "Account type:"
+msgstr "Тип облікового запису:"
+
+#: microblogposter_options.php:3317
+msgid ""
+"Leave the fields 'Access Token' and 'Access Token Secret' below blank if you "
+"want to authorize your account interactively."
+msgstr "Залиште поля 'Маркер доступу' і 'Секрет маркера доступу', "
+"які розташовані нижче, порожніми, якщо хочете авторизувати свій обліковий запис інтерактивно."
+
+#: microblogposter_options.php:3318
+msgid ""
+"If you provide them, your account will be ready to post immediately and you "
+"won't have to authorize interactively."
+msgstr "Якщо ви заповните їх, ваш обліковий запис буде готовим відразу відправляти записи, "
+"і вам не доведеться авторизовуватися інтерактивно."
+
+#: microblogposter_options.php:3319
+msgid ""
+"Not providing these two fields is meant to allow you posting to multiple "
+"twitter accounts with a single twitter App. "
+msgstr "Якщо не заповнювати ці два поля, то можна відправляти записи в декілька облікових записів "
+"Twitter за допомогою окремого додатку Twitter."
+
+#: microblogposter_options.php:3320
+msgid "You then authorize each account interactively against your App."
+msgstr "Потім ви авторизуєте кожний обліковий запис інтерактивно зі свого додатку."
+
+#: microblogposter_options.php:3328 microblogposter_options.php:3335
+msgid "Optional."
+msgstr "Необов'язково."
+
+#: microblogposter_options.php:3496 microblogposter_options.php:3634
+#: microblogposter_options.php:3874
+msgid "Where you want to auto post."
+msgstr "Куди ви бажаєте автоматично відправляти записи."
+
+#: microblogposter_options.php:3572 microblogposter_options.php:3710
+#: microblogposter_options.php:3773 microblogposter_options.php:3929
+msgid "Available with the Pro / Enterprise Add-on."
+msgstr "У наявності в надбудові Pro / Enterprise."
+
+#: microblogposter_options.php:4467
+msgid "Auto re-publish your old blog posts to social accounts :"
+msgstr "Автоматично публікуйте заново в облікових записах соціальних мереж свої старі записи з блогу :"
+
+#: microblogposter_options.php:4470
+msgid ""
+"<span class=\"microblogposter-name\">MicroblogPoster</span> can now auto re-"
+"publish your <strong>old blog posts</strong> to social accounts in order to "
+"keep them alive."
+msgstr "Тепер "
+"<span class=\"microblogposter-name\">MicroblogPoster</span> може автоматично "
+"публікувати заново в облікових записах соціальних мереж "
+"<strong>ваші старі записи з блогу</strong>, щоб зберегти їх активність."
+
+#: microblogposter_options.php:4471
+msgid ""
+"You need to specify the minimum and maximum of the post age and all posts, "
+"published on your blog in between, will be candidates."
+msgstr "Вам треба вказати мінімальний і максимальний термін служби запису, "
+"і всі записи, опубліковані у вашому блозі в цей період, стануть кандидатами."
+
+#: microblogposter_options.php:4472
+msgid ""
+"This feature utilizes the WP Cron functionality and will be run every x "
+"(specify it below) hours."
+msgstr "Ця можливість використовує функціонал WP Cron і буде запускатися кожні "
+"x (вкажіть нижче) годин(и)."
+
+#: microblogposter_options.php:4474
+msgid "How to activate :"
+msgstr "Як активувати :"
+
+#: microblogposter_options.php:4475
+msgid "Check the 'Activate old posts auto publishing'."
+msgstr "Виберіть 'Активувати автопублікацію  старих записів'."
+
+#: microblogposter_options.php:4476
+msgid "Choose your settings."
+msgstr "Виберіть свої настройки."
+
+#: microblogposter_options.php:4477
+msgid ""
+"Select the social accounts you want to be active for old posts re-publishing."
+msgstr "Виберіть ті облікові записи соціальних мереж, які повинні бути активними "
+"при публікації заново старих записів."
+
+#: microblogposter_options.php:4478
+msgid "Hit Save button."
+msgstr "Натисніть кнопку Зберегти."
+
+#: microblogposter_options.php:4479
+msgid ""
+"Almost immediately you should see first old post(s) re-published in the Logs/"
+"History tab. They are labelled 'Old'."
+msgstr "Майже відразу ви побачите перший(-і) старий(-і) запис(и), "
+"опублікований(-і) заново на вкладці Логи/Історія. Вони позначені як 'Старі'."
+
+#: microblogposter_options.php:4480
+msgid "Next run will occur after approximately x hours."
+msgstr "Наступний запуск відбудеться приблизно через x годин(и)."
+
+#: microblogposter_options.php:4489
+msgid "Activate old posts auto publishing :"
+msgstr "Активувати автопублікацію старих записів :"
+
+#: microblogposter_options.php:4492
+msgid "Current Status :"
+msgstr "Поточний статус :"
+
+#: microblogposter_options.php:4492
+msgid "<strong class='mbp-green'>ACTIVATED</strong>"
+msgstr "<strong class='mbp-green'>АКТИВОВАНЕ</strong>"
+
+#: microblogposter_options.php:4492
+msgid "<strong class='mbp-red'>DEACTIVATED</strong>"
+msgstr "<strong class='mbp-red'>ДЕАКТИВОВАНЕ</strong>"
+
+#: microblogposter_options.php:4500
+msgid "General settings :"
+msgstr "Загальні настройки :"
+
+#: microblogposter_options.php:4504
+msgid "WP Cron Interval:"
+msgstr "Інтервал WP Cron:"
+
+#: microblogposter_options.php:4505
+msgid "hours"
+msgstr "годин(и)"
+
+#: microblogposter_options.php:4505 microblogposter_options.php:4513
+#: microblogposter_options.php:4517 microblogposter_options.php:4521
+msgid "and reasonably"
+msgstr "і доцільно"
+
+#: microblogposter_options.php:4508
+msgid "Number of posts to auto publish each time:"
+msgstr "Кількість записів для автопублікації за один раз:"
+
+#: microblogposter_options.php:4509
+msgid "posts"
+msgstr "записи(-ів)"
+
+#: microblogposter_options.php:4512
+msgid "Min age of published post to be eligible. (0 for no min limit):"
+msgstr "Мінімальний термін служби опублікованих записів (0, якщо немає мінімуму):"
+
+#: microblogposter_options.php:4513 microblogposter_options.php:4517
+#: microblogposter_options.php:4521
+msgid "days"
+msgstr "дні(в)"
+
+#: microblogposter_options.php:4516
+msgid "Max age of published post to be eligible. (0 for no max limit):"
+msgstr "Максимальний термін служби опублікованих записів (0, якщо немає максимуму):"
+
+#: microblogposter_options.php:4520
+msgid ""
+"Period after which the re-published old post is eligible again (0 for never):"
+msgstr "Період, після якого застосовується публікація заново старих записів (0, якщо ніколи):"
+
+#: microblogposter_options.php:4528
+msgid "Categories to exclude old posts from Cross Posting:"
+msgstr "Рубрики для вилучення старих записів з кроспостингу:"
+
+#: microblogposter_options.php:4532
+msgid ""
+"Check categories for which you want to disable old posts auto publishing."
+msgstr "Позначте рубрики, для яких ви хочете вимкнути автопублікацію старих записів."
+
+#: microblogposter_options.php:4532
+msgid ""
+"Check Custom Post Types for which you want to enable old posts auto publishing."
+msgstr ""
+"Позначте типи користувацьких записів, для яких ви хочете ввімкнути "
+"автопублікацію старих записів."
+
+#: microblogposter_options.php:4557 microblogposter_options.php:4660
+msgid "Select the social accounts to update:"
+msgstr "Виберіть облікові записи соціальних мереж для поновлення:"
+
+#: microblogposter_options.php:4567
+msgid ""
+"Sharing manually to your social accounts is available with the Enterprise "
+"Add-on"
+msgstr "У надбудові Enterprise доступне ручне розташування в ваших облікових "
+"записах соціальних мереж"
+
+#: microblogposter_options.php:4576
+msgid "Please verify your License Key before you can manually auto share."
+msgstr "Підтвердіть, будь ласка, свій ліцензійний ключ, перш ніж отримати "
+"можливість ручного авторозташування."
+
+#: microblogposter_options.php:4579
+msgid "Manually auto share to your configured social accounts:"
+msgstr "Ручне авторозташування у ваших сконфігурованих облікових записах соціальних мереж:"
+
+#: microblogposter_options.php:4581
+msgid ""
+"You can share an <strong>url</strong> or a simple <strong>text status "
+"update</strong> to all your configured social accounts."
+msgstr "Ви можете розташувати <strong>URL</strong> або оновлення "
+"<strong>статусу простого тексту</strong> у всіх своїх сконфігурованих облікових записах соціальних мереж."
+
+#: microblogposter_options.php:4582
+msgid ""
+"This is totally independent from your blog, by auto sharing you don't create "
+"any new item in your blog."
+msgstr "Це абсолютно не залежить від вашого блогу, шляхом авторозташування ви "
+"не створюєте нових елементів у своєму блозі."
+
+#: microblogposter_options.php:4583
+msgid ""
+"Manual auto posting will appear in Logs/History, as usual, only labelled "
+"'Manual'. "
+msgstr "Ручна автовідправка з'явиться на вкладці Логи/Історія, як звичайно, поміченою 'Вручну'."
+
+#: microblogposter_options.php:4589
+msgid "Successfully posted to social accounts."
+msgstr "Успішно відправлено в облікові записи соціальних мереж."
+
+#: microblogposter_options.php:4595
+msgid "Please fill in the required fields."
+msgstr "Заповніть, будь ласка, необхідні поля."
+
+#: microblogposter_options.php:4601
+msgid "Please validate your Customer License Key."
+msgstr "Перевірте, будь ласка, справжність свого ключа користувацької ліцензії."
+
+#: microblogposter_options.php:4617
+msgid "Title"
+msgstr "Назва"
+
+#: microblogposter_options.php:4623
+msgid "Url"
+msgstr "URL"
+
+#: microblogposter_options.php:4629
+msgid "Description"
+msgstr "Опис"
+
+#: microblogposter_options.php:4633
+msgid ""
+"Optional. Description/Excerpt of the Url, used with Facebook, Linkedin, "
+"Tumblr."
+msgstr "Необов'язково. Опис/цитата цього URL, який використовується у Facebook, Linkedin, Tumblr."
+
+#: microblogposter_options.php:4644
+msgid "Message"
+msgstr "Повідомлення"
+
+#: microblogposter_options.php:4649
+msgid ""
+"Text message as it will be shared. Message formats below aren't used for "
+"'text' type."
+msgstr "Текстове повідомлення в тому вигляді, в якому буде розташоване. "
+"Формати повідомлень, зазначені нижче, не використовуються для типу 'текст'."
+
+#: microblogposter_options.php:4650
+msgid ""
+"Currently doesn't work with Linkedin. And Diigo, Delicious and Instapaper "
+"don't support sharing text."
+msgstr "В даний момент не працює з Linkedin, а Diigo, Delicious і Instapaper "
+"не підтримують розташування тексту."
+
+#: microblogposter_options.php:4671
+msgid "Share"
+msgstr "Розташувати"
+
+#: microblogposter_options.php:4670
+msgid "Logs Section:"
+msgstr "Розділ логів:"
+
+#: microblogposter_options.php:4674
+msgid "Empty Logs"
+msgstr "Порожні логи"
+
+#: microblogposter_options.php:4680
+msgid "DateTime"
+msgstr "DateTime"
+
+#: microblogposter_options.php:4681
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: microblogposter_options.php:4682
+msgid "Log message"
+msgstr "Повідомлення логу"
+
+#: microblogposter_options.php:4683
+msgid "Post ID"
+msgstr "ID запису"
+
+#: microblogposter_options.php:4703
+msgid "Manual"
+msgstr "Вручну"
+
+#: microblogposter_options.php:4704
+msgid "Old"
+msgstr "Старе"
+
+#: microblogposter_options.php:5115
+msgid "Delete permanently all your logs?"
+msgstr "Видалити назавжди всі ваші логи?"
+
+#: microblogposter_options.php:5155
+msgid "Hide"
+msgstr "Приховати"
+
+#: microblogposter_options.php:5198
+msgid "Hide Additional Shorteners"
+msgstr "Приховати додаткові скорочувачі"
+
+#: microblogposter_options.php:5249
+msgid "Don't cross-post automatically on Update"
+msgstr "Не робити кроспост автоматично при оновленні"
+
+#: microblogposter_options.php:5250
+msgid "This is most likely to be checked."
+msgstr "Швидше за все це треба вибрати."
+
+#: microblogposter_options.php:5463 microblogposter_options.php:5704
+msgid "Accounts"
+msgstr "Облікові записи"
+
+#: microblogposter_options.php:5465 microblogposter_options.php:5706
+msgid "Uncheck All"
+msgstr "Зняти позначки з усього"
+
+#: microblogposter_options.php:5465 microblogposter_options.php:5706
+msgid "Check All"
+msgstr "Вибрати все"
+
+#: microblogposter_options.php:5467 microblogposter_options.php:5469
+#: microblogposter_options.php:5709 microblogposter_options.php:5711
+#: microblogposter_options.php:5713 microblogposter_options.php:5715
+msgid "Available shortcodes:"
+msgstr "Доступні скорочені коди:"
+
+#: microblogposter_options.php:5503
+msgid "Message Format for Manual Posting:"
+msgstr "Формат повідомлення для ручної відправки:"
+
+#: microblogposter_options.php:5752
+msgid "Message Format for Old Posts:"
+msgstr "Формат повідомлення для старих записів:"
+
+msgid "Error: The MicroblogPoster's Pro/Enterprise Add-on License Key isn't valid."
+msgstr "Помилка: Ліцензійний ключ надбудови Pro/Enterprise для MicroblogPoster є недійсним."
+""
+
+#. Plugin Name of the plugin/theme
+msgid "Microblog Poster"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://efficientscripts.com/microblogposter"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Automatically publishes your new blog content to Social Networks. Auto-"
+"updates Twitter, Facebook, Linkedin, Plurk, Diigo, Delicious.."
+msgstr "Автоматично публікує старий і новий контент ваших блогів в соціальних мережах. "
+"Автоматична відправка записів у Twitter, Facebook, Linkedin, Tumblr, Blogger, Xing."
+
+#. Author of the plugin/theme
+msgid "Efficient Scripts"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://efficientscripts.com/"
+msgstr ""

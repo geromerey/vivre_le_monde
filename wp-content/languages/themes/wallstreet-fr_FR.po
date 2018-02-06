@@ -1,0 +1,1291 @@
+# Translation of Themes - Wallstreet in French (France)
+# This file is distributed under the same license as the Themes - Wallstreet package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-05 09:07:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Wallstreet\n"
+
+#. Description of the plugin/theme
+msgid "WallStreet is a Business WordPress Theme that contains many features for customizing your website as you need. Already, thousands of users are enjoying this theme because it is designed for multiple businesses like corporates, law firms, digital media agencies, architecture firms, personal blogs, portfolios and freelancer websites. The theme is developed using Bootstrap 3 CSS framework which makes it friendly for all devices such as mobiles, tablets, and laptops, etc. In WallStreet Lite, you can easily set a Featured Banner / Slide, Social Icons in the header, Contact Information, Services, Portfolio, and a 4-column widgetized footer. Several page templates are also added: Homepage and a Full Width page template. In the premium version, you will get 2 color skins (Lite and Dark), 10 predefined color schemes, a feature for creating your own custom color scheme, an eye-catching slider, and Services, Testimonials, Portfolio, Clients / Sponsors, Blog Layouts, Layout Manager and Latest News. You will also get various page templates including About, Services, Portfolio, Blog and Contact Us. The theme has support for popular plugins such as WPML, Polylang and JetPack Gallery Extensions. Just navigate to Appearance / Customize to start customizing. Both the lite and premium versions of WallStreet theme come with various locales. Check the premium version theme demo at http://webriti.com/demo/wp/wallstreet"
+msgstr "Wallstreet est un thème business pour WordPress qui intègre de nombreuses fonctionnalités pour personnaliser votre site Web selon vos besoins. Déjà des milliers d'utilisateurs apprécient ce thème parce qu'il est conçu pour de multiples entreprises comme les entreprises, les grands groupes, les cabinets d’avocats, agences publicitaires, cabinets d’architecture, les sites personnels, de portfolio ou de freelances. Le thème est développé sur le framework CSS Bootstrap 3 qui le rend  utilisable sur tous les appareils comme les mobiles, tablettes, ordinateurs portables, etc. Dans Wallstreet Lite, vous pouvez facilement mettre en avant des bannières/diapositives, définir vos icônes de réseaux sociaux dans l’en-tête, vos coordonnées, services, portfolio dans les widgets de pied de page sur 4 colonnes. Quelques modèles de page sont disponibles pour la page d’accueil ainsi qu’un modèle de page en pleine largeur. Dans la version Premium, vous obtiendrez 2 thèmes de couleurs Lite et Dark, 10 jeux de couleurs prédéfinis, des fonctionnalités pour créer votre jeu de couleurs personnalisé, un diaporama, des services, des témoignages, un portfolio, clients / sponsors, une mise en page pour le blog, un gestionnaire de mise en page et les dernières nouvelles. Vous obtiendrez divers modèles de page comme un à propos, service, portfolio, blog et contactez-nous. Le thème prend en charge les extensions populaires comme WPML, Polylang et la Galerie de Jetpack. Rendez-vous simplement dans apparence/personnaliser pour commencer votre personnalisation. La version Lite et Premium du thème Wallstreet est disponible dans de nombreuses langues. Jetez un œil à la démo de la version Premium du thème sur http://webriti.com/demo/wp/wallstreet"
+
+#. Theme Name of the plugin/theme
+msgid "Wallstreet"
+msgstr "Wallstreet"
+
+#: functions/customizer/customizer-slider.php:62
+msgid "A state-of-the-art HTML5-powered flexible layout with lightspeed fast CSS3 transition effects. Works perfectly in any modern mobile."
+msgstr "Propulsé par les règles de l’art du HTML5 pour une mise en page flexible avec des effets de transitions CSS3 à la vitesse de la lumière. Fonctionne parfaitement sur tout mobile moderne."
+
+#: functions/customizer/customizer-copyright.php:15
+msgid "Copyright @ 2014 - WALL STREET Designed by <a href=\"%1$s\" target=\"_blank\">Webriti</a>."
+msgstr "Copyright @ 2014 - WALL STREET Conception par <a href=\"%1$s\" target=\"_blank\">Webriti</a>."
+
+#: functions/customizer/customizer-service.php:231
+msgid "Want to add more services? Then upgrade to Pro."
+msgstr "Vous voulez ajouter plus de services ? Passez à la version Pro."
+
+#: functions/customizer/customizer-project.php:226
+msgid "Homepage portfolio four"
+msgstr "Portfolio quatre de page d’accueil"
+
+#: functions/customizer/customizer-project.php:106
+msgid "Homepage portfolio two"
+msgstr "Portfolio deux de page d’accueil"
+
+#: functions/customizer/customizer-project.php:80
+msgid "Homepage portfolio one"
+msgstr "Portfolio un de page d’accueil"
+
+#: functions/customizer/customizer-heading.php:132 theme_setup_data.php:73
+msgid "Our most popular work"
+msgstr "Nos travaux les plus populaires"
+
+#: functions/customizer/customizer-client.php:30
+#: functions/customizer/customizer-feature.php:36
+#: functions/customizer/customizer-template.php:85
+#: functions/customizer/customizer-template.php:153
+#: functions/customizer/customizer-template.php:280
+#: functions/customizer/customizer-template.php:564
+#: functions/customizer/customizer-template.php:633
+#: functions/customizer/customizer-testimonial.php:35
+#: functions/customizer/customizer-typography.php:113
+#: functions/customizer/customizer-typography.php:188
+#: functions/customizer/customizer-typography.php:263
+#: functions/customizer/customizer-typography.php:411
+#: functions/customizer/customizer-typography.php:486
+#: functions/customizer/customizer-typography.php:559
+#: functions/customizer/customizer-typography.php:633
+#: functions/customizer/customizer-typography.php:706
+msgid "WallStreet upgrade"
+msgstr "Mettre à niveau Wallstreet"
+
+#: functions/customizer/customizer-blog.php:7
+msgid "Homepage blog settings"
+msgstr "Réglages de blog de page d’accueil"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l’extension %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension à activer disponible actuellement."
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucune extension à activer sélectionnée. Aucune action effectuée."
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucune extension à mettre à jour disponible actuellement."
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucune extension à installer disponible actuellement."
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Aucune extension à mettre à jour sélectionnée. Aucune action effectuée."
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Aucune extension à installer sélectionnée. Aucune action effectuée."
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à jour de l’auteur de l’extension :"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Aucune extension à installer, à mettre à jour ou à activer."
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Version minimum requise :"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnu"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "À activer <span class=\"count\">(%s)</span>"
+msgstr[1] "À activer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Updates Available <span class=\"count\">(%s)</span>"
+msgid_plural "Updates Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mises à jour disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "À installer <span class=\"count\">(%s)</span>"
+msgstr[1] "À installer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Toutes <span class=\"count\">(%s)</span>"
+msgstr[1] "Toutes <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Mise à jour requise"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update Not Available"
+msgstr "Mise à jour nécessaire non disponible"
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activée"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Source externe"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Le paquet d’extension distant se compose de plus d’un fichier, mais les fichiers ne sont pas conditionnés dans un dossier."
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Veuillez contacter le fournisseur de l’extension et lui demander de conditionner son extension selon les directives de WordPress."
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Le paquet d’extension distant ne contient pas de dossier avec l’identifiant souhaité et le renommage ne fonctionne pas."
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Mise à jour requise."
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "L’extension doit être mise à jour afin d’assurer une compatibilité maximale avec votre thème."
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l’administrateur du site pour obtenir de l’aide."
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Il y a un ou plusieurs plugins requis ou recommandés à installer, mettre à jour ou activer."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "L’extension n’a pas été activée. Une version plus récente de %s est nécessaire pour ce thème. Veuillez mettre à jour l’extension."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action effectuée. L’extension %1$s était déjà active."
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Lancer la mise à jour de l’extension"
+msgstr[1] "Lancer la mise à jour des extensions"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour de l’extension : %s"
+
+#: functions/customizer/customizer-typography.php:248
+msgid "Post / Page title"
+msgstr "Titre d’article / page"
+
+#: functions/customizer/customizer-typography.php:98
+msgid "General paragraph"
+msgstr "Paragraphe général"
+
+#: functions/customizer/customizer-template.php:69
+msgid "About page settings"
+msgstr "Réglages de page À propos"
+
+#: functions/customizer/customizer-client.php:5
+#: functions/customizer/customizer-feature.php:6
+#: functions/customizer/customizer-pro.php:12
+#: functions/customizer/customizer-pro.php:19
+#: functions/customizer/customizer-project.php:299
+#: functions/customizer/customizer-service.php:234
+#: functions/customizer/customizer-template.php:6
+#: functions/customizer/customizer-template.php:15
+#: functions/customizer/customizer-template.php:24
+#: functions/customizer/customizer-template.php:32
+#: functions/customizer/customizer-template.php:41
+#: functions/customizer/customizer-template.php:51
+#: functions/customizer/customizer-testimonial.php:5
+#: functions/customizer/customizer-typography.php:8
+#: functions/customizer/customizer-typography.php:17
+#: functions/customizer/customizer-typography.php:25
+#: functions/customizer/customizer-typography.php:33
+#: functions/customizer/customizer-typography.php:41
+#: functions/customizer/customizer-typography.php:49
+#: functions/customizer/customizer-typography.php:57
+#: functions/customizer/customizer-typography.php:65
+#: functions/customizer/customizer-typography.php:73
+msgid "Upgrade to Pro"
+msgstr "Passez à la version Pro"
+
+#: functions.php:98 functions.php:100
+msgid "Sidebar widget area"
+msgstr "Zone de widget de colonne latérale"
+
+#: functions/customizer/customizer-typography.php:691
+msgid "Callout button"
+msgstr "Bouton de la légende"
+
+#: functions/customizer/customizer-typography.php:618
+msgid "Callout description"
+msgstr "Description de la légende"
+
+#: functions/customizer/customizer-typography.php:544
+msgid "Callout title"
+msgstr "Titre de la légende"
+
+#: functions/customizer/customizer-typography.php:322
+msgid "Service title"
+msgstr "Titre du service"
+
+#: functions/customizer/customizer-typography.php:173
+msgid "Menus"
+msgstr "Menus"
+
+#: functions/customizer/customizer-template.php:692
+msgid "URL"
+msgstr "URL"
+
+#: functions/customizer/customizer-template.php:616
+msgid "Contact page Google Maps"
+msgstr "Google Maps de la page contact"
+
+#: functions/customizer/customizer-template.php:547
+msgid "Contact page form settings"
+msgstr "Réglages du formulaire de la page contact"
+
+#: functions/customizer/customizer-template.php:515
+msgid "Email two"
+msgstr "E-mail deux"
+
+#: functions/customizer/customizer-template.php:495
+#: functions/customizer/customizer-template.php:535
+msgid "Email one"
+msgstr "E-mail un"
+
+#: functions/customizer/customizer-social.php:156
+msgid "YouTube URL"
+msgstr "URL de YouTube "
+
+#: functions/customizer/customizer-social.php:136
+msgid "LinkedIn URL"
+msgstr "URL de LinkedIn "
+
+#: functions/customizer/customizer-social.php:115
+msgid "GooglePlus URL"
+msgstr "URL de GooglePlus"
+
+#: functions/customizer/customizer-social.php:95
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: functions/customizer/customizer-social.php:76
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: functions/customizer/customizer-slider.php:53
+msgid "Sub title"
+msgstr "Sous-titre"
+
+#: functions/customizer/customizer-service.php:160
+msgid "Service three"
+msgstr "Service trois"
+
+#: functions/customizer/customizer-service.php:101
+msgid "Service two"
+msgstr "Service deux"
+
+#: functions/customizer/customizer-service.php:40
+msgid "Service one"
+msgstr "Service un"
+
+#: functions/customizer/customizer-template.php:396
+msgid "Contact page email settings"
+msgstr "Réglages d’e-mail de page contact"
+
+#: functions/customizer/customizer-template.php:384
+msgid "Phone number two"
+msgstr "Numéro de téléphone deux"
+
+#: functions/customizer/customizer-template.php:364
+msgid "Phone number one"
+msgstr "Numéro de téléphone un"
+
+#: functions/customizer/customizer-template.php:263
+msgid "Contact page phone settings"
+msgstr "Réglages du téléphone de la page contact"
+
+#: functions/customizer/customizer-template.php:253
+msgid "Address two"
+msgstr "Adresse deux"
+
+#: functions/customizer/customizer-template.php:235
+msgid "Address one"
+msgstr "Adresse une"
+
+#: functions/customizer/customizer-template.php:136
+msgid "Contact page address settings"
+msgstr "Réglages de l’adresse de la page contact"
+
+#: functions/customizer/customizer-home.php:153
+#: functions/customizer/customizer-home.php:166
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: functions/customizer/customizer-heading.php:65
+msgid "Contact email"
+msgstr "E-mail de contact"
+
+#: functions/customizer/customizer-heading.php:47
+msgid "Contact phone number"
+msgstr "Numéro de contact"
+
+#: functions/customizer/customizer-heading.php:28
+msgid "Enable contact information"
+msgstr "Activer l’information de contact"
+
+#: functions/customizer/customizer-feature.php:254
+msgid "Shortcodes"
+msgstr "Codes courts"
+
+#: functions/customizer/customizer-feature.php:116
+#: functions/customizer/customizer-feature.php:179
+#: functions/customizer/customizer-feature.php:242
+#: functions/customizer/customizer-template.php:195
+#: functions/customizer/customizer-template.php:323
+#: functions/customizer/customizer-template.php:455
+msgid "Icon"
+msgstr "Icône"
+
+#: functions/customizer/customizer-feature.php:85
+msgid "Core features of theme"
+msgstr "Fonctionnalité de noyau du thème"
+
+#: functions/customizer/customizer-feature.php:74
+#: functions/customizer/customizer-project.php:94
+#: functions/customizer/customizer-project.php:151
+#: functions/customizer/customizer-project.php:212
+#: functions/customizer/customizer-project.php:272
+#: functions/customizer/customizer-service.php:53
+#: functions/customizer/customizer-service.php:114
+#: functions/customizer/customizer-service.php:173
+#: functions/customizer/customizer-slider.php:20
+msgid "Image"
+msgstr "Image"
+
+#: functions/customizer/customizer-feature.php:60
+msgid "Check to enable a theme-featured section on the homepage."
+msgstr "Cochez pour activer la section fonctionnalités du thème sur la page d’accueil."
+
+#: functions/customizer/customizer-client.php:70
+#: functions/customizer/customizer-feature.php:157
+#: functions/customizer/customizer-feature.php:220
+#: functions/customizer/customizer-feature.php:283
+#: functions/customizer/customizer-project.php:69
+#: functions/customizer/customizer-project.php:138
+#: functions/customizer/customizer-project.php:198
+#: functions/customizer/customizer-project.php:258
+#: functions/customizer/customizer-service.php:93
+#: functions/customizer/customizer-service.php:153
+#: functions/customizer/customizer-service.php:212
+#: functions/customizer/customizer-slider.php:68
+#: functions/customizer/customizer-template.php:125
+#: functions/customizer/customizer-template.php:604
+msgid "Description"
+msgstr "Description"
+
+#: functions/customizer/customizer-client.php:61
+msgid "Have a look at our client base. We are growing their business and they are moving up in the market by beating their competitors."
+msgstr "Découvrez nos clients. Nous faisons aller plus haut leurs entreprises et ils augmentent leur marché en battant leurs concurrents."
+
+#: functions/customizer/customizer-client.php:51
+#: functions/customizer/customizer-feature.php:96
+#: functions/customizer/customizer-feature.php:136
+#: functions/customizer/customizer-feature.php:199
+#: functions/customizer/customizer-feature.php:262
+#: functions/customizer/customizer-project.php:50
+#: functions/customizer/customizer-project.php:120
+#: functions/customizer/customizer-project.php:180
+#: functions/customizer/customizer-project.php:240
+#: functions/customizer/customizer-service.php:75
+#: functions/customizer/customizer-service.php:135
+#: functions/customizer/customizer-service.php:194
+#: functions/customizer/customizer-slider.php:38
+#: functions/customizer/customizer-template.php:105
+#: functions/customizer/customizer-template.php:215
+#: functions/customizer/customizer-template.php:475
+#: functions/customizer/customizer-template.php:584
+#: functions/customizer/customizer-template.php:672
+msgid "Title"
+msgstr "Titre"
+
+#: functions/customizer/customizer-client.php:14
+msgid "Client settings"
+msgstr "Réglages des clients"
+
+#: comments.php:48
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: comments.php:48
+msgid "Log out from this Account"
+msgstr "Se déconnecter de ce compte"
+
+#: comments.php:47 comments.php:53
+msgid "Leave your message"
+msgstr "Laissez votre message"
+
+#: comments.php:37
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:31
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez être <a href=\"%s\">connecté·e</a> pour laisser un commentaire."
+
+#: author.php:8
+msgid "Author Archive"
+msgstr "Archives de l’auteur"
+
+#: 404.php:32
+msgid "Go Back"
+msgstr "Retour"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Page plein écran"
+
+#: functions/customizer/customizer-social.php:15
+msgid "Social Links"
+msgstr "Réseaux sociaux"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur s’est produite avec l’API de l’extension."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été effectuées."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s a bien été installée."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur est survenue pendant l’installation de %1$s : <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d’installation est lancé. Il peut prendre un certain temps chez certains hébergeurs, merci pour votre patience."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l’extension %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et les activations ont été effectuées"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a bien été installée et activée."
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d’installation et d’activation est lancé. Il peut prendre un certain temps chez certains hébergeurs, merci pour votre patience."
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Échec de l’activation de l’extension."
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "État"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Source"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Extension"
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activer"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installer"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installée mais non activée"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Non installée"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recommandée"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Nécessaire"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Dépot WordPress"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pré-packagée"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Retour au Tableau de Bord"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Rejeter cette notification"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes extensions installées et activées. %1$s"
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "L’extension suivante a bien été installée :"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "L’extension a bien été activée."
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l’installeur des extensions requises"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Lancer l’activation de l’extension"
+msgstr[1] "Lancer l’activation des extensions"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Lancer l’installation de l’extension"
+msgstr[1] "Lancer l’installation des extensions"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installation de l’extension : %s"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installation des extensions"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installation des extensions requises"
+
+#: theme_setup_data.php:87
+msgid "Copyright @ 2017 - WALL STREET Designed by <a href=\"%1$s\" target=\"_blank\">Webriti</a>."
+msgstr "Copyright @ 2017 - WALL STREET. Conception par <a href=\"%1$s\" target=\"_blank\">Webriti</a>."
+
+#: functions/customizer/customizer-typography.php:470
+msgid "Widget heading title"
+msgstr "Titre du widget"
+
+#: functions/customizer/customizer-typography.php:163
+#: functions/customizer/customizer-typography.php:238
+#: functions/customizer/customizer-typography.php:313
+#: functions/customizer/customizer-typography.php:387
+#: functions/customizer/customizer-typography.php:460
+#: functions/customizer/customizer-typography.php:535
+#: functions/customizer/customizer-typography.php:609
+#: functions/customizer/customizer-typography.php:682
+#: functions/customizer/customizer-typography.php:755
+msgid "Font style"
+msgstr "Style de police"
+
+#: functions/customizer/customizer-typography.php:147
+#: functions/customizer/customizer-typography.php:222
+#: functions/customizer/customizer-typography.php:297
+#: functions/customizer/customizer-typography.php:371
+#: functions/customizer/customizer-typography.php:444
+#: functions/customizer/customizer-typography.php:519
+#: functions/customizer/customizer-typography.php:593
+#: functions/customizer/customizer-typography.php:666
+#: functions/customizer/customizer-typography.php:739
+msgid "Font family"
+msgstr "Famille de police"
+
+#: functions/customizer/customizer-typography.php:81
+msgid "Typography settings"
+msgstr "Réglages de la typographie"
+
+#: functions/customizer/customizer-testimonial.php:59
+msgid "fade"
+msgstr "fondu"
+
+#: functions/customizer/customizer-testimonial.php:57
+msgid "Slide type variations"
+msgstr "Variations du type de diapos"
+
+#: functions/customizer/customizer-testimonial.php:59
+msgid "cross-fade"
+msgstr "fondu-croisé"
+
+#: functions/customizer/customizer-testimonial.php:78
+msgid "Scroll Items"
+msgstr "Défilement des éléments"
+
+#: functions/customizer/customizer-testimonial.php:59
+msgid "cover-fade"
+msgstr "fondu-recouvrement"
+
+#: functions/customizer/customizer-testimonial.php:98
+msgid "Scroll duration"
+msgstr "Durée du défilement"
+
+#: functions/customizer/customizer-testimonial.php:118
+msgid "Time-out duration"
+msgstr "Durée de temporisation"
+
+#: functions/customizer/customizer-typography.php:7
+msgid "Want to add general typography in the theme? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une typographie générale dans le thème ? Passez à la version Pro."
+
+#: functions/customizer/customizer-typography.php:16
+msgid "Want to add menu typography in the theme? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une typographie de menu dans le thème ? Passez à la version Pro."
+
+#: functions/customizer/customizer-typography.php:24
+msgid "Want to add post/page typography in the theme? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une typographie d’article/page dans le thème ? Passez à la version Pro."
+
+#: functions/customizer/customizer-typography.php:32
+msgid "Want to add service title typography in the theme? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une typographie de titre de service dans le thème ? Passez à la version Pro."
+
+#: functions/customizer/customizer-typography.php:40
+msgid "Want to add portfolio title typography in the theme? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une typographie de titre de portfolio dans le thème ? Passez à la version Pro."
+
+#: functions/customizer/customizer-typography.php:48
+msgid "Want to add widget title typography in the theme? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une typographie de titre de widget dans le thème ? Passez à la version Pro."
+
+#: functions/customizer/customizer-typography.php:56
+msgid "Want to add callout area title typography in the theme? Then upgrade to Pro.."
+msgstr "Vous voulez ajouter une typographie de titre de zone d’appel dans le thème ? Passez à la version Pro."
+
+#: functions/customizer/customizer-typography.php:64
+msgid "Want to add callout area description typography in the theme? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une typographie de description de zone d’appel dans le thème ? Passez à la version Pro."
+
+#: functions/customizer/customizer-typography.php:72
+msgid "Want to add callout button title typography in the theme? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une typographie de titre de bouton d’appel dans le thème ? Passez à la version Pro."
+
+#: functions/customizer/customizer-typography.php:130
+#: functions/customizer/customizer-typography.php:205
+#: functions/customizer/customizer-typography.php:280
+#: functions/customizer/customizer-typography.php:354
+#: functions/customizer/customizer-typography.php:427
+#: functions/customizer/customizer-typography.php:502
+#: functions/customizer/customizer-typography.php:576
+#: functions/customizer/customizer-typography.php:649
+#: functions/customizer/customizer-typography.php:722
+msgid "Font size"
+msgstr "Taille de police"
+
+#: functions/customizer/customizer-template.php:575
+msgid "Drop Us a Line"
+msgstr "Envoyez-nous un message"
+
+#: functions/customizer/customizer-template.php:595
+msgid "Feel free to write us a message"
+msgstr "N’hésitez pas à nous écrire"
+
+#: functions/customizer/customizer-template.php:663
+msgid "Location map"
+msgstr "Emplacement de la carte"
+
+#: functions/customizer/customizer-template.php:653
+msgid "Enable Google Map on the Contact page"
+msgstr "Activer Google Map sur la page contact"
+
+#: functions/customizer/customizer-testimonial.php:14
+#: functions/customizer/customizer-testimonial.php:20
+msgid "Testimonial settings"
+msgstr "Réglages des témoignages"
+
+#: functions/customizer/customizer-testimonial.php:5
+msgid "Want to add a testimonial? Then upgrade to Pro."
+msgstr "Vous voulez ajouter des témoignages ? Passez à la version Pro."
+
+#: functions/customizer/customizer-testimonial.php:47
+#: functions/customizer/customizer-testimonial.php:59
+#: functions/customizer/customizer-testimonial.php:68
+msgid "scroll"
+msgstr "défilement"
+
+#: functions/customizer/customizer-template.php:335
+#: functions/customizer/customizer-template.php:344
+msgid "Phone"
+msgstr "Téléphone"
+
+#: functions/customizer/customizer-template.php:301
+msgid "Enable Contact page phone section"
+msgstr "Activer la section du téléphone de la page de contact"
+
+#: functions/customizer/customizer-template.php:436
+msgid "Enable Contact page email section"
+msgstr "Activer la section d’e-mail de page contact"
+
+#: comments.php:38 functions/customizer/customizer-template.php:466
+msgid "Email"
+msgstr "E-mail"
+
+#: functions/customizer/customizer-template.php:96
+msgid "Our great team"
+msgstr "Notre superbe équipe"
+
+#: functions/customizer/customizer-template.php:174
+msgid "Enable Contact page address section"
+msgstr "Activer la section d’adresse de la page contact"
+
+#: functions/customizer/customizer-template.php:206
+msgid "Address"
+msgstr "Adresse"
+
+#: functions/customizer/customizer-client.php:5
+msgid "Want to add a client section? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une section client ? Passez à la version Pro."
+
+#: functions/customizer/customizer-template.php:414
+#: functions/customizer/customizer-typography.php:337
+msgid "Wallstreet upgrade"
+msgstr "Mettre Wallstreet à niveau"
+
+#: functions/customizer/customizer-client.php:42
+msgid "Our Clients"
+msgstr "Nos clients"
+
+#: functions/customizer/customizer-feature.php:6
+msgid "Want to add a theme feature section? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une section de fonctionnalités ? Passez à la version Pro."
+
+#: functions/customizer/customizer-feature.php:15
+#: functions/customizer/customizer-feature.php:20
+msgid "Theme feature settings"
+msgstr "Réglages des fonctionnalités"
+
+#: functions/customizer/customizer-feature.php:128
+#: functions/customizer/customizer-feature.php:191
+msgid "Incredibly flexible"
+msgstr "Une flexibilité incroyable"
+
+#: functions/customizer/customizer-template.php:5
+msgid "Want to add an About Us template heading and a Team section? Then upgrade to Pro."
+msgstr "Vous voulez ajouter un titre de modèle de page À propos et une section d’équipe ? Passez à la version Pro."
+
+#: functions/customizer/customizer-template.php:14
+msgid "Want to add a contact address in the Contact template? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une adresse de contact dans le modèle de contact ? Passez à la version Pro."
+
+#: functions/customizer/customizer-template.php:23
+msgid "Want to add a contact phone number in the Contact template? Then upgrade to Pro."
+msgstr "Vous voulez ajouter un numéro de téléphone dans le modèle de contact ? Passez à la version Pro."
+
+#: functions/customizer/customizer-template.php:31
+msgid "Want to add an email in the Contact template? Then upgrade to Pro."
+msgstr "Vous voulez ajouter un e-mail de contact dans le modèle de contact ? Passez à la version Pro."
+
+#: functions/customizer/customizer-template.php:40
+msgid "Want to add a contact form title and description in the Contact template? Then upgrade to Pro."
+msgstr "Vous voulez ajouter un titre au formulaire de contact et une description dans le modèle de contact ? Passez à la version Pro."
+
+#: functions/customizer/customizer-template.php:50
+msgid "Want to add a map in the Contact template? Then upgrade to Pro."
+msgstr "Vous voulez ajouter une carte dans le modèle de contact ? Passez à la version Pro."
+
+#: functions/customizer/customizer-template.php:61
+msgid "Template settings"
+msgstr "Réglages des modèles"
+
+#: functions/customizer/customizer-social.php:7
+msgid "Social link settings"
+msgstr "Réglages des liens sociaux"
+
+#: functions/customizer/customizer-slider.php:7
+msgid "Banner image settings"
+msgstr "Réglages de l’image de la bannière"
+
+#: functions/customizer/customizer-service.php:218
+msgid "Add more services"
+msgstr "Ajouter plus de services"
+
+#: functions/customizer/customizer-service.php:185
+msgid "Easy to use"
+msgstr "Facile à utiliser"
+
+#: functions/customizer/customizer-project.php:296
+msgid "Want to add more projects and categorizations? Then upgrade to Pro."
+msgstr "Vous voulez ajouter plus de projets avec une catégorisation ? Passez à la version Pro."
+
+#: functions/customizer/customizer-project.php:164
+msgid "Homepage portfolio three"
+msgstr "Portfolio trois de page d’accueil"
+
+#: functions/customizer/customizer-pro.php:78
+msgid "The Pro version gives you more opportunities to enhance your site and business. In order to create an effective online presence one must showcase their wide range of products, use a Contact Us enquiry form, create an effective About Us page, and introduce the team members, etc. The Pro version offers it all. Buy the Pro version today and give us the chance to serve you better."
+msgstr "La version Pro vous offre plus d’opportunités pour améliorer votre site et votre entreprise. Tout d’abord, pour créer une présence en ligne efficace vous devez mettre en vitrine une large gamme de produits, avoir une page de contact avec un formulaire de renseignements, une page à propos de vous efficace, une page présentant votre équipe, etc. La version Pro vous donne tout ça. Achetez la version pro et donnez nous une chance de mieux vous servir."
+
+#: functions/customizer/customizer-project.php:8
+#: functions/customizer/customizer-project.php:14
+msgid "Project settings"
+msgstr "Réglages des projets"
+
+#: functions/customizer/customizer-home.php:145
+msgid "Show Logo Text"
+msgstr "Afficher le logo texte"
+
+#: functions/customizer/customizer-home.php:123
+msgid "Enter Logo Height"
+msgstr "Saisissez la hauteur du logo"
+
+#: functions/customizer/customizer-home.php:104
+msgid "Enter Logo Width"
+msgstr "Saisissez la largeur du logo"
+
+#: functions/customizer/customizer-home.php:83
+msgid "Enable/Disable Logo"
+msgstr "Activer/Désactiver le logo"
+
+#: functions/customizer/customizer-home.php:64
+msgid "Upload a 150x150 Logo Image"
+msgstr "Mettre en ligne un logo de 150 x 150"
+
+#: functions/customizer/customizer-home.php:46
+msgid "Header logo setting"
+msgstr "Réglages du logo de l’en-tête"
+
+#: functions/customizer/customizer-home.php:27
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "Choisir votre favicon (la largeur idéale est 16 x 16 ou 32 x 32)"
+
+#: functions/customizer/customizer-home.php:16
+msgid "Upload a favicon"
+msgstr "Mettre en ligne un favicon"
+
+#: functions/customizer/customizer-pro.php:74
+msgid "DOCUMENTATION"
+msgstr "DOCUMENTATION"
+
+#: functions/customizer/customizer-pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr "DONNEZ VOTRE AVIS"
+
+#: functions/customizer/customizer-home.php:14
+msgid "Site favicon"
+msgstr "Favicon du site"
+
+#: functions/customizer/customizer-home.php:8
+msgid "Header settings"
+msgstr "Réglages de l’en-tête"
+
+#: functions/customizer/customizer-copyright.php:24
+msgid "Copyright text"
+msgstr "Texte du droit d’auteur"
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr "Réglages des droits d’auteur"
+
+#: functions/customizer/customizer-blog.php:27
+msgid "Enable Homepage Blog Section"
+msgstr "Activer la section de blog de page d’accueil"
+
+#: functions/customizer/customizer-heading.php:179
+msgid "Homepage blog section description"
+msgstr "Description de section de blog de page d’accueil"
+
+#: functions/customizer/customizer-heading.php:160
+msgid "Homepage blog section heading"
+msgstr "En-tête de section de blog de page d’accueil"
+
+#: functions/customizer/customizer-heading.php:170 theme_setup_data.php:75
+msgid "We work with new customers and grow their business."
+msgstr "Nous travaillons avec de nouveaux clients et faisons grandir leurs entreprises."
+
+#: functions/customizer/customizer-heading.php:151 theme_setup_data.php:74
+msgid "Our latest blog post"
+msgstr "Notre article de blog le plus récent"
+
+#: tag.php:8
+msgid "Tag Archive %s"
+msgstr "Archive de l’étiquette %s"
+
+#: searchform.php:2
+msgid "Search Here"
+msgstr "Rechercher"
+
+#: search.php:72
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: search.php:70
+msgid "Nothing Found"
+msgstr "Rien n’a été trouvé"
+
+#: search.php:66
+msgid "Next"
+msgstr "Suivant"
+
+#: search.php:65
+msgid "Previous"
+msgstr "Précédent"
+
+#: search.php:32
+msgid "Search results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: functions.php:162
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: functions.php:157
+msgid "Edit"
+msgstr "Modifier"
+
+#: functions.php:155
+msgid "Posted on &nbsp;"
+msgstr "Publié le &nbsp;"
+
+#: functions.php:148
+msgid "Reply"
+msgstr "Répondre"
+
+#: functions.php:108 functions.php:110
+msgid "Footer widget area"
+msgstr "Zone de widget de pied de page"
+
+#: functions.php:73
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Rechercher"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Page d’accueil"
+
+#: theme_setup_data.php:26
+msgid "State-of-the-art HTML5-powered flexible layout with lightspeed fast CSS3 transition effects. Works perfectly on any modern mobile device."
+msgstr "Propulsé par les règles de l’art du HTML5 pour une mise en page flexible avec des effets de transitions CSS3 à la vitesse de la lumière. Fonctionne parfaitement sur tout mobile moderne."
+
+#: functions/customizer/customizer-slider.php:47 theme_setup_data.php:25
+msgid "Welcome to WallStreet"
+msgstr "Bienvenue dans WallStreet"
+
+#: functions/customizer/customizer-slider.php:32 theme_setup_data.php:24
+msgid "Clean & fresh theme"
+msgstr "Thème propre et frais"
+
+#: functions/customizer/customizer-service.php:12
+#: functions/customizer/customizer-service.php:32
+msgid "Enable Service section"
+msgstr "Activer la section des services"
+
+#: functions/customizer/customizer-service.php:7
+msgid "Service settings"
+msgstr "Réglages des services"
+
+#: theme_setup_data.php:41
+msgid "Responsive designs"
+msgstr "Conceptions adaptatives"
+
+#: functions/customizer/customizer-service.php:126 theme_setup_data.php:37
+msgid "WordPress themes"
+msgstr "Thèmes WordPress"
+
+#: functions/customizer/customizer-service.php:66 theme_setup_data.php:33
+msgid "Product Design"
+msgstr "Conception de produit"
+
+#: functions/customizer/customizer-project.php:34
+msgid "Enable portfolio section on homepage (project section)"
+msgstr "Activer une section de portfolio sur la page d’accueil (section projet)"
+
+#: functions/customizer/customizer-project.php:60
+#: functions/customizer/customizer-project.php:129
+#: functions/customizer/customizer-project.php:189
+#: functions/customizer/customizer-project.php:249 theme_setup_data.php:48
+#: theme_setup_data.php:52 theme_setup_data.php:56 theme_setup_data.php:60
+msgid "A wonderful serenity has taken possession of my entire soul, like these sweet mornings."
+msgstr "Une puissante sérénité a pris possession de mon âme tout entière, comme ces douces matinées."
+
+#: functions/customizer/customizer-project.php:44
+#: functions/customizer/customizer-project.php:114
+#: functions/customizer/customizer-project.php:174
+#: functions/customizer/customizer-project.php:234 theme_setup_data.php:47
+#: theme_setup_data.php:51 theme_setup_data.php:55 theme_setup_data.php:59
+msgid "WallStreet style"
+msgstr "Style WallStreet"
+
+#: functions/customizer/customizer-heading.php:141
+msgid "Portfolio Description"
+msgstr "Description du portfolio"
+
+#: functions/customizer/customizer-heading.php:122
+#: functions/customizer/customizer-typography.php:396
+msgid "Portfolio Title"
+msgstr "Titre du portfolio"
+
+#: functions/customizer/customizer-heading.php:104
+msgid "Services Description"
+msgstr "Description des services"
+
+#: functions/customizer/customizer-heading.php:85
+msgid "Services Title"
+msgstr "Titre des services"
+
+#: functions/customizer/customizer-heading.php:9
+msgid "Section Heading"
+msgstr "Section d’en-tête"
+
+#: functions/customizer/customizer-heading.php:113 theme_setup_data.php:72
+msgid "Featured portfolio project"
+msgstr "Projet de portfolio mis en avant"
+
+#: functions/customizer/customizer-heading.php:95
+#: functions/customizer/customizer-template.php:116 theme_setup_data.php:71
+msgid "We offer great services to our clients."
+msgstr "Nous offrons des services de qualité à nos clients."
+
+#: functions/customizer/customizer-heading.php:76 theme_setup_data.php:70
+msgid "Our services"
+msgstr "Nos services"
+
+#: functions/customizer/customizer-social.php:54
+msgid "Enable social media links on footer section"
+msgstr "Activer les liens des réseaux sociaux dans la section du pied de page"
+
+#: functions/customizer/customizer-social.php:35
+msgid "Enable social media links on header section"
+msgstr "Activer les liens des réseaux sociaux dans la section d’en-tête"
+
+#: archive.php:58 author.php:47 category.php:49
+#: functions/breadcrumbs/breadcrumbs.php:98 functions.php:56 index.php:53
+#: single.php:31 tag.php:48
+msgid "Page"
+msgstr "Page"
+
+#: functions/breadcrumbs/breadcrumbs.php:90
+msgid "Articles posted by"
+msgstr "Articles publiés par"
+
+#: functions/breadcrumbs/breadcrumbs.php:85
+msgid "Posts tagged"
+msgstr "Articles étiquetés"
+
+#: functions/breadcrumbs/breadcrumbs.php:27
+msgid "Search results for"
+msgstr "Résultats de recherche pour"
+
+#: functions/breadcrumbs/breadcrumbs.php:24
+msgid "Archive by category"
+msgstr "Archive par catégorie"
+
+#: functions/breadcrumbs/breadcrumbs.php:5
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Accueil"
+
+#: comments.php:50
+msgid "Send Message"
+msgstr "Envoyer le message"
+
+#: comments.php:48
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+#: comments.php:26
+msgid "Comments are closed"
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:22
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:21
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: comments.php:20
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:10
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 réflexion au sujet de « %2$s »"
+msgstr[1] "%1$s réflexions au sujet de « %2$s »"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Cet article est protégé par un mot de passe. Saisissez le mot de passe pour lire les commentaires."
+
+#: archive.php:57 author.php:46 category.php:48 functions.php:90
+#: index-blog.php:46 index.php:52 search.php:50 tag.php:47
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: archive.php:16
+msgid "Blog Archive"
+msgstr "Archives du blog"
+
+#: archive.php:14
+msgid "Yearly Archive"
+msgstr "Archive annuelle"
+
+#: archive.php:12
+msgid "Monthly Archive"
+msgstr "Archive mensuelle"
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "Archive quotidienne"
+
+#: 404.php:31
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Nous sommes désolés, mais la page que vous recherchez n’existe pas."
+
+#: 404.php:30
+msgid "Oops! Page not found"
+msgstr "Aïe ! Page non trouvée"
+
+#: 404.php:8 404.php:29 functions/breadcrumbs/breadcrumbs.php:93
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"

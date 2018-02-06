@@ -1,0 +1,310 @@
+.kadence-importer-wrap {	
+	position: relative;
+  	margin: 25px 0px 20px;
+  	text-align: left;
+  	font-size: 15px;
+}
+.kadence-importer-wrap h1 {
+  margin: .2em 0 0 0;
+  color: #333;
+  line-height: 1.2em;
+  font-size: 2.8em;
+  font-weight: 400;
+}
+.ocdi__gl-search {
+	display: none;
+}
+.importer-notice {
+        border-left: 4px solid #00b5e2;
+    padding: 10px 15px 10px 10px;
+
+    margin-bottom: 20px;
+        background: white;
+}
+.not-kadence-notice {
+	 border-left: 4px solid #B94A48;
+    padding: 10px 15px 10px 10px;
+
+    margin-bottom: 20px;
+        background: white;
+}
+.kadence-importer-wrap h3 {
+    font-weight: lighter;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 30px;
+    line-height: 30px;
+    color: #999;
+    padding: 0;
+    margin: 0;
+}
+.kadence-importer-wrap h4.kt-subhead {
+  margin: 10px 0;
+  color: #777;
+  font-size: 15px;
+  font-weight: 300;
+}
+.kadence-importer-wrap h4.kt-choose {
+  margin: 1em 0px 1em 0;
+  font-size: 22px;
+}
+.kadence-importer-wrap .kt-active-plugin {
+  font-weight: bold;
+  font-size: 14px;
+  color: green;
+      background: white;
+    padding: 10px;
+    border-left: 4px solid green;
+}
+.kadence-importer-wrap .kt-active-plugin:before {
+  content: "\f147";
+    font-family: dashicons;
+  text-decoration: inherit;
+  font-weight: 400;
+  font-style: normal;
+  vertical-align: bottom;
+    font-size: 24px;
+    line-height: 26px;
+  margin-right: 4px;
+}
+.kadence-importer-wrap .kt-inactive-plugin {
+  font-weight: 300;
+  font-size: 14px;
+  color: #B94A48;
+      border-left: 4px solid #B94A48;
+    padding: 10px;
+    background: white;
+}
+
+.kadence-importer-wrap .kt-inactive-plugin span {
+    font-size: 18px;
+    font-weight: 700;
+    }
+.kadence-importer-wrap .kt-inactive-plugin:before {
+    content: "\f335";
+    font-family: dashicons;
+  text-decoration: inherit;
+  font-weight: 400;
+  font-style: normal;
+  vertical-align: bottom;
+  font-size: 24px;
+  line-height: 26px;
+  margin-right: 4px;
+}
+.import-warning p {
+  padding: 20px;
+  background: #f9f9f9;
+  max-width: 800px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 14px;
+  border-bottom: 2px solid #444;
+}
+.kt-highlight {
+        background-color: orange;
+    padding: 3px 10px;
+    color: white;
+    font-weight: bold;
+}
+.kadence-importer-wrap #kt_ajax_overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: -20px;
+  bottom: 0;
+  background: #000;
+  background: rgba(0,0,0,.5);
+  z-index: 200;
+  display: none;
+}
+p.sitelinks a {
+    border: 2px solid #eee;
+    padding: 3px 5px;
+    margin-right: 5px;
+    color: #444;
+    text-decoration: none;
+}
+p.sitelinks a:hover {
+    border: 2px solid #444;
+    color: #444;
+    text-decoration: none;
+}
+p.php-ex-notice {
+    max-width: 616px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 2px solid orange;
+}
+.import-action {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 40px 20px 60px;
+    background: #fff;
+    border-bottom: 2px solid #00b5e2;
+    }
+.ajaxnotice-kt {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 440px;
+  height: 80px;
+  margin-left: -220px;
+  margin-top: -40px;
+  font-size: 20px;
+  opacity: 1;
+  color: white;
+ /* background: url('loader-ajax.gif')no-repeat center bottom; */
+}
+.bubblingG {
+  text-align: center;
+  width:78px;
+  height:49px;
+  margin: auto;
+}
+
+.bubblingG span {
+  display: inline-block;
+  vertical-align: middle;
+  width: 10px;
+  height: 10px;
+  margin: 24px auto;
+  background: rgb(0,0,0);
+  border-radius: 49px;
+    -o-border-radius: 49px;
+    -ms-border-radius: 49px;
+    -webkit-border-radius: 49px;
+    -moz-border-radius: 49px;
+  animation: bubblingG 1.5s infinite alternate;
+    -o-animation: bubblingG 1.5s infinite alternate;
+    -ms-animation: bubblingG 1.5s infinite alternate;
+    -webkit-animation: bubblingG 1.5s infinite alternate;
+    -moz-animation: bubblingG 1.5s infinite alternate;
+}
+
+#bubblingG_1 {
+  animation-delay: 0s;
+    -o-animation-delay: 0s;
+    -ms-animation-delay: 0s;
+    -webkit-animation-delay: 0s;
+    -moz-animation-delay: 0s;
+}
+
+#bubblingG_2 {
+  animation-delay: 0.45s;
+    -o-animation-delay: 0.45s;
+    -ms-animation-delay: 0.45s;
+    -webkit-animation-delay: 0.45s;
+    -moz-animation-delay: 0.45s;
+}
+
+#bubblingG_3 {
+  animation-delay: 0.9s;
+    -o-animation-delay: 0.9s;
+    -ms-animation-delay: 0.9s;
+    -webkit-animation-delay: 0.9s;
+    -moz-animation-delay: 0.9s;
+}
+
+
+
+@keyframes bubblingG {
+  0% {
+    width: 10px;
+    height: 10px;
+    background-color:rgb(0,0,0);
+    transform: translateY(0);
+  }
+
+  100% {
+    width: 23px;
+    height: 23px;
+    background-color:rgb(255,255,255);
+    transform: translateY(-20px);
+  }
+}
+
+@-o-keyframes bubblingG {
+  0% {
+    width: 10px;
+    height: 10px;
+    background-color:rgb(0,0,0);
+    -o-transform: translateY(0);
+  }
+
+  100% {
+    width: 23px;
+    height: 23px;
+    background-color:rgb(255,255,255);
+    -o-transform: translateY(-20px);
+  }
+}
+
+@-ms-keyframes bubblingG {
+  0% {
+    width: 10px;
+    height: 10px;
+    background-color:rgb(0,0,0);
+    -ms-transform: translateY(0);
+  }
+
+  100% {
+    width: 23px;
+    height: 23px;
+    background-color:rgb(255,255,255);
+    -ms-transform: translateY(-20px);
+  }
+}
+
+@-webkit-keyframes bubblingG {
+  0% {
+    width: 10px;
+    height: 10px;
+    background-color:rgb(0,0,0);
+    -webkit-transform: translateY(0);
+  }
+
+  100% {
+    width: 23px;
+    height: 23px;
+    background-color:rgb(255,255,255);
+    -webkit-transform: translateY(-20px);
+  }
+}
+
+@-moz-keyframes bubblingG {
+  0% {
+    width: 10px;
+    height: 10px;
+    background-color:rgb(0,0,0);
+    -moz-transform: translateY(0);
+  }
+
+  100% {
+    width: 23px;
+    height: 23px;
+    background-color:rgb(255,255,255);
+    -moz-transform: translateY(-20px);
+  }
+}
+.kt-updated {
+  margin: 5px 0 15px;
+  background: #fff;
+  border-left: 4px solid #fff;
+  border-color: #7ad03a;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+  margin: 5px 15px 2px;
+  padding: 1px 12px;
+}
+.kt-updated.kt-error {
+	border-color: red;
+}
+.kt-updated.importer-notice-failed, .kt-updated.importer-notice-possible {
+    padding: 100px 50px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+.ocdi__gl-item-image-container::after {
+    padding-top: 65%;
+}

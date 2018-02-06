@@ -1,0 +1,4 @@
+﻿"Schedule ID","Category ID","Day ID",Time,Duration,Title,Description,"Web Link","Background Cell Color","Title Color"
+1,1,4,15.00,2.0,"Guardians of the Galaxy","A fun science-fiction movie based on Marvel characters for the whole family.","http://marvel.com/movies/movie/179/guardians_of_the_galaxy","#CCCCCC","#000000"
+1,1,2,17.00,2.0,"Captain America Winter Soldier","Cap is back and better than ever","http://marvel.com/captainamerica","#CCCCCC","#000000"
+1,1,5,19.50,2.5,"Thor Dark World","Thor Sequel","http://marvel.com/captainamerica","#CCCCCC","#000000"

@@ -1,0 +1,204 @@
+.kt_theme_welcome h1 {
+	font-size: 42px;
+    line-height: 1.2;
+    font-weight: 300;
+   	margin-bottom: 10px;
+}
+.kt_theme_welcome h4 {
+	color: #555;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+    margin: 0;
+}
+.kt_theme_welcome .kt_title_area h4{
+    font-weight:400;
+}
+.kt-admin-clearfix:before, .kt-admin-clearfix:after {
+	content: '';
+	clear:both;
+	display:table;
+}
+.kad-panel-left, .kad-panel-bottom {
+    max-width:1200px;
+    float: none;
+    padding: 0 30px 30px 20px;
+    box-sizing: border-box;
+}
+.kt_theme_welcome .nav-tab {
+    font-size: 18px;
+    font-weight: 300;
+    padding: 10px 20px;
+    border: 0;
+    letter-spacing: -1px;
+}
+.kt_title_area {
+    padding: 20px;
+}
+.kt_theme_welcome .nav-tab-active, .kt_theme_welcome .nav-tab-active:focus, .kt_theme_welcome .nav-tab-active:focus:active, .kt_theme_welcome .nav-tab-active:hover {
+    background:white;
+}
+.wrap.kt_theme_welcome h2.nav-tab-wrapper {
+    border: 0;
+}
+.kad-helpful-links a:focus {
+    box-shadow: none;
+}
+.nav-tab-content {
+    background: white;
+    padding: 20px 30px;
+}
+.kad-panel-left .nav-tab-content {
+    display: none;
+}
+.kad-panel-left .nav-tab-content.panel_open {
+    display: block;
+}
+.kad-panel-right, .kad-panel-left {
+    margin-top: 60px;
+}
+.kt-main {
+    max-width: 600px;
+}
+.kt-main h2 {
+    margin: 10px 0 20px 0;
+}
+.kt-main input[type='text'] {
+    margin-right: 5px;
+    padding: 8px;
+}
+
+.kt-main .submit input#submit {
+    color: #00b5e2;
+    text-shadow: none;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 20px;
+    line-height: 20px;
+    background: white;
+    height: auto;
+    box-shadow: none;
+    border: 2px solid #00b5e2;
+}
+
+.kt-main .form-table th {
+    line-height: 40px;
+    padding: 15px 10px 0 0;
+}
+
+.kt-main a {
+    color: #00b5e2;
+}
+
+.kt-main .submit input#submit:hover {
+    color: #fff;
+    background: #00b5e2;
+}
+.kt-main input[type='text'] {
+    margin-right: 5px;
+}
+.kt-main .form-table td input[type=checkbox], .kt-main .form-table td span.description {
+    line-height: 35px;
+}
+.kad-helpful-links a {
+    display: block;
+    padding: 10px 0;
+    font-size: 16px;
+    font-weight: 300;
+        cursor: pointer;
+}
+h4.kt-next-section {
+    margin-top: 20px;
+}
+ul.celist{ list-style-type: square; list-style-position:inside; }
+.hidden {visibility:hidden;}
+.alert { background-color: #fffedf; font-weight: bold; padding: 10px; text-align: center; }
+.icon-pos {
+	padding-right:10px;
+	padding-left:10px;
+	/* Positions icon from the top */
+	position: relative;
+	top: 3px;
+}
+.kt-main input[type='text'],
+.kt-main textarea {
+	width: 90%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.kad-recomended-plugins.kt-main {
+    max-width: 100%;
+}
+.kt_plugin_box h5 {
+    margin: 0;
+    color: #777;
+    border: 1px solid #777;
+    display: inline-block;
+    padding: 0 6px;
+}
+
+a.kt_plugin_button {
+    text-decoration: none;
+    color: white;
+    background: #555;
+        padding: 8px 12px;
+    display: inline-block;
+}
+a.kt_plugin_button:hover {
+	opacity: .9;
+}
+.kt_plugin_box {
+    padding: 20px;
+    width: 46%;
+    float: left;
+    margin-right: 2%;
+        border: 5px solid #eee;
+    margin-left: 2%;
+        margin-bottom: 2%;
+    margin-top: 2%;
+    text-align: center;
+        box-sizing: border-box;
+}
+.kt_plugin_box span {
+    display: block;
+    margin-top: 5px;
+    font-style: italic;
+}
+.kt_plugin_box p {
+    min-height: 80px;
+}
+.kt_plugin_box img {
+    max-width: 100%;
+}
+.kad-featured-items {
+    background: #fff;
+    max-width: 100%;
+    padding: 20px 10px;
+}
+.kad-featured-items .featured {
+    float: left;
+    width: 50%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+.kad-featured-items .featured img {
+	max-width: 100%;
+}
+.kad-featured-items .featured  h4 {
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 0 0 10px 0;
+    color: #555;
+}
+.kad-featured-items .featured a {
+    text-decoration: none;
+    display: block;
+}
+
+.kad-featured-items .featured h5 {
+    color: #00b5e2;
+}
