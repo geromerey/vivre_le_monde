@@ -88,6 +88,7 @@ $table_prefix  = 'wp_';
  */
 define('WP_DEBUG', false);
 
+define('VP_ENVIRONMENT', 'default');
 /* C’est tout, ne touchez pas à ce qui suit ! */
 
 /** Chemin absolu vers le dossier de WordPress. */
